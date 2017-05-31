@@ -1,8 +1,8 @@
 <story>
    <author>MarinatedTuna</author>
-   <build_number>167</build_number>
+   <build_number>229</build_number>
    <chapter no="1">
-      <chdate>01/01/2000</chdate>
+      <chdate>03/16/2015</chdate>
       <chdesc>Boi....</chdesc>
       <message no="1.1" type="msgr">
          <condition>
@@ -17,7 +17,7 @@
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>2725</toggle>
+                  <toggle>3301</toggle>
                </toggles>
             </typing>
          </msg>
@@ -37,11 +37,12 @@
       <message no="1.4" type="msgr">
          <msg no="1">
             <content>I feel weird about you</content>
-            <end_delay>0</end_delay>
+            <end_delay>2000</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>2911</toggle>
                </toggles>
             </typing>
          </msg>
@@ -49,11 +50,12 @@
       <message no="1.5" type="msgr">
          <msg no="1">
             <content>Past weeks you were like trying to hold my hand</content>
-            <end_delay>0</end_delay>
+            <end_delay>2200</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>4089</toggle>
                </toggles>
             </typing>
          </msg>
@@ -65,7 +67,7 @@
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>3987</toggle>
                </toggles>
             </typing>
          </msg>
@@ -85,11 +87,12 @@
       <message no="1.8" type="msgr">
          <msg no="1">
             <content>You&apos;re changing dude</content>
-            <end_delay>0</end_delay>
+            <end_delay>1700</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>2044</toggle>
                </toggles>
             </typing>
          </msg>
@@ -101,7 +104,7 @@
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>4629</toggle>
                </toggles>
             </typing>
          </msg>
@@ -121,11 +124,14 @@
       <message no="1.11" type="msgr">
          <msg no="1">
             <content>You!! You&apos;re such a terrib..</content>
-            <end_delay>0</end_delay>
+            <end_delay>2200</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
-               <toggles length="1">
-                  <toggle>1000</toggle>
+               <toggles length="3">
+                  <toggle>1104</toggle>
+                  <toggle>1488</toggle>
+                  <toggle>1696</toggle>
                </toggles>
             </typing>
          </msg>
@@ -133,11 +139,12 @@
       <message no="1.12" type="msgr">
          <msg no="1">
             <content>I..</content>
-            <end_delay>0</end_delay>
+            <end_delay>1200</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>1299</toggle>
                </toggles>
             </typing>
          </msg>
@@ -145,11 +152,12 @@
       <message no="1.13" type="msgr">
          <msg no="1">
             <content>I&apos;m sorry Mark. I don&apos;t mean to be rude but..</content>
-            <end_delay>0</end_delay>
+            <end_delay>2300</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>3766</toggle>
                </toggles>
             </typing>
          </msg>
@@ -160,8 +168,10 @@
             <end_delay>0</end_delay>
             <typing>
                <show>yes</show>
-               <toggles length="1">
-                  <toggle>1000</toggle>
+               <toggles length="3">
+                  <toggle>1400</toggle>
+                  <toggle>1575</toggle>
+                  <toggle>2114</toggle>
                </toggles>
             </typing>
          </msg>
@@ -181,11 +191,12 @@
       <message no="1.16" type="msgr">
          <msg no="1">
             <content>You.. you aren&apos;t</content>
-            <end_delay>0</end_delay>
+            <end_delay>1800</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>2421</toggle>
                </toggles>
             </typing>
          </msg>
@@ -193,11 +204,12 @@
       <message no="1.17" type="msgr">
          <msg no="1">
             <content>The real Mark talks to me....</content>
-            <end_delay>0</end_delay>
+            <end_delay>1800</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>3605</toggle>
                </toggles>
             </typing>
          </msg>
@@ -205,11 +217,12 @@
       <message no="1.18" type="msgr">
          <msg no="1">
             <content>Not this Mark who tries to hold my hand like a creep</content>
-            <end_delay>0</end_delay>
+            <end_delay>2100</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>3420</toggle>
                </toggles>
             </typing>
          </msg>
@@ -217,11 +230,14 @@
       <message no="1.19" type="msgr">
          <msg no="1">
             <content>The real Mark is.. he&apos;s.. cheerful and supportive and...</content>
-            <end_delay>0</end_delay>
+            <end_delay>2500</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
-               <toggles length="1">
-                  <toggle>1000</toggle>
+               <toggles length="3">
+                  <toggle>1708</toggle>
+                  <toggle>1256</toggle>
+                  <toggle>2198</toggle>
                </toggles>
             </typing>
          </msg>
@@ -233,7 +249,7 @@
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>3309</toggle>
                </toggles>
             </typing>
          </msg>
@@ -253,11 +269,12 @@
       <message no="1.22" type="msgr">
          <msg no="1">
             <content>I just want my bestfriend back I mean</content>
-            <end_delay>0</end_delay>
+            <end_delay>2000</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>3830</toggle>
                </toggles>
             </typing>
          </msg>
@@ -268,8 +285,10 @@
             <end_delay>0</end_delay>
             <typing>
                <show>yes</show>
-               <toggles length="1">
-                  <toggle>1000</toggle>
+               <toggles length="3">
+                  <toggle>1660</toggle>
+                  <toggle>711</toggle>
+                  <toggle>1245</toggle>
                </toggles>
             </typing>
          </msg>
@@ -289,11 +308,12 @@
       <message no="1.25" type="msgr">
          <msg no="1">
             <content>Really?</content>
-            <end_delay>0</end_delay>
+            <end_delay>1700</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>1941</toggle>
                </toggles>
             </typing>
          </msg>
@@ -301,11 +321,12 @@
       <message no="1.26" type="msgr">
          <msg no="1">
             <content>Then why can&apos;t I feel it Mark?</content>
-            <end_delay>0</end_delay>
+            <end_delay>1900</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>3204</toggle>
                </toggles>
             </typing>
          </msg>
@@ -317,7 +338,7 @@
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>3373</toggle>
                </toggles>
             </typing>
          </msg>
@@ -337,11 +358,14 @@
       <message no="1.29" type="msgr">
          <msg no="1">
             <content>I.. I don&apos;t know.</content>
-            <end_delay>0</end_delay>
+            <end_delay>1300</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
-               <toggles length="1">
-                  <toggle>1000</toggle>
+               <toggles length="3">
+                  <toggle>1836</toggle>
+                  <toggle>2090</toggle>
+                  <toggle>791</toggle>
                </toggles>
             </typing>
          </msg>
@@ -353,7 +377,7 @@
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>3943</toggle>
                </toggles>
             </typing>
          </msg>
@@ -373,11 +397,12 @@
       <message no="1.32" type="msgr">
          <msg no="1">
             <content>There&apos;s none probably. I told you already..</content>
-            <end_delay>0</end_delay>
+            <end_delay>2000</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>4144</toggle>
                </toggles>
             </typing>
          </msg>
@@ -385,11 +410,12 @@
       <message no="1.33" type="msgr">
          <msg no="1">
             <content>I guess I have to give you more time...</content>
-            <end_delay>0</end_delay>
+            <end_delay>2000</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>3929</toggle>
                </toggles>
             </typing>
          </msg>
@@ -397,11 +423,14 @@
       <message no="1.34" type="msgr">
          <msg no="1">
             <content>To accept all of this...</content>
-            <end_delay>0</end_delay>
+            <end_delay>1500</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
-               <toggles length="1">
-                  <toggle>1000</toggle>
+               <toggles length="3">
+                  <toggle>1813</toggle>
+                  <toggle>1137</toggle>
+                  <toggle>684</toggle>
                </toggles>
             </typing>
          </msg>
@@ -413,7 +442,7 @@
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>4235</toggle>
                </toggles>
             </typing>
          </msg>
@@ -433,28 +462,17 @@
       <message no="1.37" type="msgr">
          <msg no="1">
             <content>I trust you too...</content>
-            <end_delay>0</end_delay>
+            <end_delay>1500</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>2278</toggle>
                </toggles>
             </typing>
          </msg>
       </message>
-      <message no="1.38" type="msgr">
-         <msg no="1">
-            <content>@expr+ //FIXme: Alternate route starts here. Add backstory. Goal: End at message 163</content>
-            <end_delay>0</end_delay>
-            <typing>
-               <show>yes</show>
-               <toggles length="1">
-                  <toggle>1000</toggle>
-               </toggles>
-            </typing>
-         </msg>
-      </message>
-      <message no="1.39" type="player">
+      <message no="1.38" type="player">
          <reply no="1">
             <content>Nic can I tell you something?</content>
             <preview>x</preview>
@@ -466,19 +484,19 @@
             </send_duration>
          </reply>
       </message>
-      <message no="1.40" type="msgr">
+      <message no="1.39" type="msgr">
          <msg no="1">
             <content>What is it?</content>
             <end_delay>0</end_delay>
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>2108</toggle>
                </toggles>
             </typing>
          </msg>
       </message>
-      <message no="1.41" type="player">
+      <message no="1.40" type="player">
          <reply no="1">
             <content>I am so sorry I&apos;ve been acting weird lately. We&apos;ve been great friends ever since you first started talking to me over text about chemistry</content>
             <preview>x</preview>
@@ -490,55 +508,60 @@
             </send_duration>
          </reply>
       </message>
-      <message no="1.42" type="msgr">
+      <message no="1.41" type="msgr">
          <msg no="1">
             <content>I know and that&apos;s what I miss about you Mark.</content>
-            <end_delay>0</end_delay>
+            <end_delay>2000</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>3910</toggle>
+               </toggles>
+            </typing>
+         </msg>
+      </message>
+      <message no="1.42" type="msgr">
+         <msg no="1">
+            <content>You were so bright and cheerful and supportive around me.</content>
+            <end_delay>2400</end_delay>
+            <end>delay</end>
+            <typing>
+               <show>yes</show>
+               <toggles length="1">
+                  <toggle>4348</toggle>
                </toggles>
             </typing>
          </msg>
       </message>
       <message no="1.43" type="msgr">
          <msg no="1">
-            <content>You were so bright and cheerful and supportive around me.</content>
-            <end_delay>0</end_delay>
+            <content>And I feel like I&apos;m slowly losing you day after day.</content>
+            <end_delay>2300</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>4047</toggle>
                </toggles>
             </typing>
          </msg>
       </message>
       <message no="1.44" type="msgr">
          <msg no="1">
-            <content>And I feel like I&apos;m slowly losing you day after day.</content>
-            <end_delay>0</end_delay>
-            <typing>
-               <show>yes</show>
-               <toggles length="1">
-                  <toggle>1000</toggle>
-               </toggles>
-            </typing>
-         </msg>
-      </message>
-      <message no="1.45" type="msgr">
-         <msg no="1">
             <content>You have to understand Mark. You don&apos;t need to be in a relationship to be happy</content>
             <end_delay>0</end_delay>
             <typing>
                <show>yes</show>
-               <toggles length="1">
-                  <toggle>1000</toggle>
+               <toggles length="3">
+                  <toggle>2880</toggle>
+                  <toggle>1837</toggle>
+                  <toggle>1687</toggle>
                </toggles>
             </typing>
          </msg>
       </message>
-      <message no="1.46" type="player">
+      <message no="1.45" type="player">
          <reply no="1">
             <content>It just hurts y&apos;know? You&apos;re the first girl I ever confessed to and I had high expectations</content>
             <preview>x</preview>
@@ -550,7 +573,7 @@
             </send_duration>
          </reply>
       </message>
-      <message no="1.47" type="player">
+      <message no="1.46" type="player">
          <reply no="1">
             <content>But I&apos;ve learned a lot from you Nic. We have so much in common. It&apos;s so easy to get along with you.</content>
             <preview>x</preview>
@@ -562,7 +585,7 @@
             </send_duration>
          </reply>
       </message>
-      <message no="1.48" type="player">
+      <message no="1.47" type="player">
          <reply no="1">
             <content>You&apos;ve made my life much more interesting and easier to bear when I had problems. I guess that&apos;s kinda why I fell in love with you.</content>
             <preview>x</preview>
@@ -574,7 +597,7 @@
             </send_duration>
          </reply>
       </message>
-      <message no="1.49" type="player">
+      <message no="1.48" type="player">
          <reply no="1">
             <content>I know you&apos;re mad at me because of all these weeks I&apos;ve been ignoring you and begging you to love me back and I deserve it.</content>
             <preview>x</preview>
@@ -586,7 +609,7 @@
             </send_duration>
          </reply>
       </message>
-      <message no="1.50" type="player">
+      <message no="1.49" type="player">
          <reply no="1">
             <content>I know I have to accept things. It&apos;s just been hard y&apos;know?</content>
             <preview>x</preview>
@@ -598,67 +621,72 @@
             </send_duration>
          </reply>
       </message>
-      <message no="1.51" type="msgr">
+      <message no="1.50" type="msgr">
          <msg no="1">
             <content>Look Mark. You don&apos;t have to be so apologetic. </content>
-            <end_delay>0</end_delay>
+            <end_delay>2100</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>3272</toggle>
+               </toggles>
+            </typing>
+         </msg>
+      </message>
+      <message no="1.51" type="msgr">
+         <msg no="1">
+            <content>Maybe I&apos;ve been blunt and apathetic over the past weeks. I should&apos;ve at least sympathized with you but I&apos;ve been shutting you out too.</content>
+            <end_delay>3000</end_delay>
+            <end>delay</end>
+            <typing>
+               <show>yes</show>
+               <toggles length="1">
+                  <toggle>5197</toggle>
                </toggles>
             </typing>
          </msg>
       </message>
       <message no="1.52" type="msgr">
          <msg no="1">
-            <content>Maybe I&apos;ve been blunt and apathetic over the past weeks. I should&apos;ve at least sympathized with you but I&apos;ve been shutting you out too.</content>
-            <end_delay>0</end_delay>
+            <content>See this is why I don&apos;t like the idea of love. Or at least I want to avoid the thought for now.</content>
+            <end_delay>2900</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>4711</toggle>
                </toggles>
             </typing>
          </msg>
       </message>
       <message no="1.53" type="msgr">
          <msg no="1">
-            <content>See this is why I don&apos;t like the idea of love. Or at least I want to avoid the thought for now.</content>
-            <end_delay>0</end_delay>
+            <content>Mike hurt me. I hurt you. Love does nothing but ruin friendships.</content>
+            <end_delay>2100</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>3868</toggle>
                </toggles>
             </typing>
          </msg>
       </message>
       <message no="1.54" type="msgr">
          <msg no="1">
-            <content>Mike hurt me. I hurt you. Love does nothing but ruin friendships.</content>
-            <end_delay>0</end_delay>
-            <typing>
-               <show>yes</show>
-               <toggles length="1">
-                  <toggle>1000</toggle>
-               </toggles>
-            </typing>
-         </msg>
-      </message>
-      <message no="1.55" type="msgr">
-         <msg no="1">
             <content>We would&apos;ve been talking normally if it wasn&apos;t for love. We&apos;d still be best friends</content>
-            <end_delay>0</end_delay>
+            <end_delay>2300</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>3990</toggle>
                </toggles>
             </typing>
          </msg>
       </message>
-      <message no="1.56" type="player">
+      <message no="1.55" type="player">
          <reply no="1">
             <content>No it&apos;s okay Nic. â˜º</content>
             <preview>x</preview>
@@ -670,7 +698,7 @@
             </send_duration>
          </reply>
       </message>
-      <message no="1.57" type="player">
+      <message no="1.56" type="player">
          <reply no="1">
             <content>You broke up with someone you thought was worth loving and even though it&apos;s been 3 months, maybe you just want to take a break.</content>
             <preview>x</preview>
@@ -682,7 +710,7 @@
             </send_duration>
          </reply>
       </message>
-      <message no="1.58" type="player">
+      <message no="1.57" type="player">
          <reply no="1">
             <content>And I&apos;m completely fine with that Nic. I want to take a break too. There&apos;s so many areas in my life I need to improve.</content>
             <preview>x</preview>
@@ -694,7 +722,7 @@
             </send_duration>
          </reply>
       </message>
-      <message no="1.59" type="player">
+      <message no="1.58" type="player">
          <reply no="1">
             <content>I&apos;m done chasing girls and feeling desperate and needy. I should just enjoy life and you should too.</content>
             <preview>x</preview>
@@ -706,67 +734,72 @@
             </send_duration>
          </reply>
       </message>
-      <message no="1.60" type="msgr">
+      <message no="1.59" type="msgr">
          <msg no="1">
             <content>Well I&apos;m glad we&apos;re okay now Mark. â˜º</content>
-            <end_delay>0</end_delay>
+            <end_delay>2100</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>3262</toggle>
+               </toggles>
+            </typing>
+         </msg>
+      </message>
+      <message no="1.60" type="msgr">
+         <msg no="1">
+            <content>I just want to focus on myself too. I feel like I&apos;ve spent too much time trying to look for guys too.</content>
+            <end_delay>3000</end_delay>
+            <end>delay</end>
+            <typing>
+               <show>yes</show>
+               <toggles length="1">
+                  <toggle>4692</toggle>
                </toggles>
             </typing>
          </msg>
       </message>
       <message no="1.61" type="msgr">
          <msg no="1">
-            <content>I just want to focus on myself too. I feel like I&apos;ve spent too much time trying to look for guys too.</content>
-            <end_delay>0</end_delay>
+            <content>Maybe I just need to stop thinking about dating and enjoy life.</content>
+            <end_delay>2400</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>3672</toggle>
                </toggles>
             </typing>
          </msg>
       </message>
       <message no="1.62" type="msgr">
          <msg no="1">
-            <content>Maybe I just need to stop thinking about dating and enjoy life.</content>
-            <end_delay>0</end_delay>
+            <content>Because life is so short and we should just make the most out of it without depending on other people for happiness.</content>
+            <end_delay>3200</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>4970</toggle>
                </toggles>
             </typing>
          </msg>
       </message>
       <message no="1.63" type="msgr">
          <msg no="1">
-            <content>Because life is so short and we should just make the most out of it without depending on other people for happiness.</content>
-            <end_delay>0</end_delay>
-            <typing>
-               <show>yes</show>
-               <toggles length="1">
-                  <toggle>1000</toggle>
-               </toggles>
-            </typing>
-         </msg>
-      </message>
-      <message no="1.64" type="msgr">
-         <msg no="1">
             <content>I don&apos;t want change. I just want to focus on what I&apos;m already happy with. I don&apos;t want to feel like I&apos;m lacking nor do I want to seaech for more than I already have.</content>
-            <end_delay>0</end_delay>
+            <end_delay>3500</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>6051</toggle>
                </toggles>
             </typing>
          </msg>
       </message>
-      <message no="1.65" type="player">
+      <message no="1.64" type="player">
          <reply no="1">
             <content>You&apos;re right Nic. I don&apos;t want anything to change between us. I just want to be comfortable about you being my bestfriend. â˜º</content>
             <preview>x</preview>
@@ -778,7 +811,7 @@
             </send_duration>
          </reply>
       </message>
-      <message no="1.66" type="player">
+      <message no="1.65" type="player">
          <reply no="1">
             <content>And I know it&apos;s hard for me to let this thought sink in but what&apos;s the difference with being bestfriends and being lovers anyways?</content>
             <preview>x</preview>
@@ -790,7 +823,7 @@
             </send_duration>
          </reply>
       </message>
-      <message no="1.67" type="player">
+      <message no="1.66" type="player">
          <reply no="1">
             <content>We already trust each other enough to tall about our deepest, darkest secrets. We run to each other when we need support. And we&apos;re always so excited to tell each other about our days. â˜º</content>
             <preview>x</preview>
@@ -802,7 +835,7 @@
             </send_duration>
          </reply>
       </message>
-      <message no="1.68" type="player">
+      <message no="1.67" type="player">
          <reply no="1">
             <content>Come to think of it, it&apos;s as if we&apos;re still lovers anyways. ðŸ˜‚</content>
             <preview>x</preview>
@@ -814,79 +847,85 @@
             </send_duration>
          </reply>
       </message>
-      <message no="1.69" type="msgr">
+      <message no="1.68" type="msgr">
          <msg no="1">
             <content>Hahaha! ðŸ˜‚</content>
-            <end_delay>0</end_delay>
+            <end_delay>1800</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>1399</toggle>
+               </toggles>
+            </typing>
+         </msg>
+      </message>
+      <message no="1.69" type="msgr">
+         <msg no="1">
+            <content>You do have a point. ðŸ˜›</content>
+            <end_delay>2000</end_delay>
+            <end>delay</end>
+            <typing>
+               <show>yes</show>
+               <toggles length="1">
+                  <toggle>2926</toggle>
                </toggles>
             </typing>
          </msg>
       </message>
       <message no="1.70" type="msgr">
          <msg no="1">
-            <content>You do have a point. ðŸ˜›</content>
-            <end_delay>0</end_delay>
+            <content>Wow I&apos;m so relieved everything feels so normal and comfortable between us now.</content>
+            <end_delay>2500</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>3997</toggle>
                </toggles>
             </typing>
          </msg>
       </message>
       <message no="1.71" type="msgr">
          <msg no="1">
-            <content>Wow I&apos;m so relieved everything feels so normal and comfortable between us now.</content>
-            <end_delay>0</end_delay>
+            <content>Just ten minutes ago, I felt very uncomfortable talking to you and I was very aware of the fact that we may have broken ties altogether if your persistence continued.</content>
+            <end_delay>4000</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>6544</toggle>
                </toggles>
             </typing>
          </msg>
       </message>
       <message no="1.72" type="msgr">
          <msg no="1">
-            <content>Just ten minutes ago, I felt very uncomfortable talking to you and I was very aware of the fact that we may have broken ties altogether if your persistence continued.</content>
-            <end_delay>0</end_delay>
+            <content>I really respect you for finally stopping your pursuit. â˜º I have a feeling that you&apos;ve had a thing for me for quite a while now.</content>
+            <end_delay>3200</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>5272</toggle>
                </toggles>
             </typing>
          </msg>
       </message>
       <message no="1.73" type="msgr">
          <msg no="1">
-            <content>I really respect you for finally stopping your pursuit. â˜º I have a feeling that you&apos;ve had a thing for me for quite a while now.</content>
-            <end_delay>0</end_delay>
-            <typing>
-               <show>yes</show>
-               <toggles length="1">
-                  <toggle>1000</toggle>
-               </toggles>
-            </typing>
-         </msg>
-      </message>
-      <message no="1.74" type="msgr">
-         <msg no="1">
             <content>I feel bad rejecting you. It sucks being the one friendzoned I know. I just hope that the next girl you like will be ready and be as eager to date as you. </content>
-            <end_delay>0</end_delay>
+            <end_delay>2000</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>5124</toggle>
                </toggles>
             </typing>
          </msg>
       </message>
-      <message no="1.75" type="player">
+      <message no="1.74" type="player">
          <reply no="1">
             <content>I&apos;ll get over it eventually. I guess it&apos;s easier to get over all this if we stay friends.</content>
             <preview>x</preview>
@@ -898,55 +937,59 @@
             </send_duration>
          </reply>
       </message>
-      <message no="1.76" type="msgr">
+      <message no="1.75" type="msgr">
          <msg no="1">
             <content>It really depends actually.</content>
-            <end_delay>0</end_delay>
+            <end_delay>2000</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>2660</toggle>
+               </toggles>
+            </typing>
+         </msg>
+      </message>
+      <message no="1.76" type="msgr">
+         <msg no="1">
+            <content>Take it from me. Based on my past experience, I always found it easier to stop talking to the guy I liked if we were in a relationship and we just broke up</content>
+            <end_delay>3800</end_delay>
+            <end>delay</end>
+            <typing>
+               <show>yes</show>
+               <toggles length="1">
+                  <toggle>6634</toggle>
                </toggles>
             </typing>
          </msg>
       </message>
       <message no="1.77" type="msgr">
          <msg no="1">
-            <content>Take it from me. Based on my past experience, I always found it easier to stop talking to the guy I liked if we were in a relationship and we just broke up</content>
-            <end_delay>0</end_delay>
+            <content>If I stayed friends, I&apos;d still be emotionally attached to the guy, even if we weren&apos;t trying to get back together.</content>
+            <end_delay>3000</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>4514</toggle>
                </toggles>
             </typing>
          </msg>
       </message>
       <message no="1.78" type="msgr">
          <msg no="1">
-            <content>If I stayed friends, I&apos;d still be emotionally attached to the guy, even if we weren&apos;t trying to get back together.</content>
-            <end_delay>0</end_delay>
-            <typing>
-               <show>yes</show>
-               <toggles length="1">
-                  <toggle>1000</toggle>
-               </toggles>
-            </typing>
-         </msg>
-      </message>
-      <message no="1.79" type="msgr">
-         <msg no="1">
             <content>In the short term it really does hurt. Not seeing the person you loved and dated. I know that in past relationships I&apos;ve had, I&apos;d spend at least 30 minutes everyday crying before going to sleep and even more if I wake up in the middle of the night somehow.</content>
-            <end_delay>0</end_delay>
+            <end_delay>2000</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>7132</toggle>
                </toggles>
             </typing>
          </msg>
       </message>
-      <message no="1.80" type="player">
+      <message no="1.79" type="player">
          <reply no="1">
             <content>Really? I can&apos;t imagine how that actually feels like. I always thought leaving the girl I liked would leave me more depressed in the long run.</content>
             <preview>x</preview>
@@ -958,7 +1001,7 @@
             </send_duration>
          </reply>
       </message>
-      <message no="1.81" type="player">
+      <message no="1.80" type="player">
          <reply no="1">
             <content>How many guys have you dated in the past?</content>
             <preview>x</preview>
@@ -970,19 +1013,20 @@
             </send_duration>
          </reply>
       </message>
-      <message no="1.82" type="msgr">
+      <message no="1.81" type="msgr">
          <msg no="1">
             <content>Well unofficially, 3 guys but if I were to have an official count, 2.</content>
-            <end_delay>0</end_delay>
+            <end_delay>500</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>3037</toggle>
                </toggles>
             </typing>
          </msg>
       </message>
-      <message no="1.83" type="player">
+      <message no="1.82" type="player">
          <reply no="1">
             <content>I don&apos;t get it. Can you define officially and unofficially? ðŸ˜‚</content>
             <preview>x</preview>
@@ -994,19 +1038,20 @@
             </send_duration>
          </reply>
       </message>
-      <message no="1.84" type="msgr">
+      <message no="1.83" type="msgr">
          <msg no="1">
             <content>Read between the lines my friend. ðŸ˜›</content>
-            <end_delay>0</end_delay>
+            <end_delay>500</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>3040</toggle>
                </toggles>
             </typing>
          </msg>
       </message>
-      <message no="1.85" type="player">
+      <message no="1.84" type="player">
          <reply no="1">
             <content>Uh.. okay fine. One of the guys was a hookup and then you broke off after you had a one night stand.</content>
             <preview>x</preview>
@@ -1018,43 +1063,46 @@
             </send_duration>
          </reply>
       </message>
-      <message no="1.86" type="msgr">
+      <message no="1.85" type="msgr">
          <msg no="1">
             <content>LOL what?? You crazy! ðŸ˜‚</content>
-            <end_delay>0</end_delay>
+            <end_delay>2000</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>3198</toggle>
+               </toggles>
+            </typing>
+         </msg>
+      </message>
+      <message no="1.86" type="msgr">
+         <msg no="1">
+            <content>I&apos;m not really into that Mark. Cmon now. ðŸ˜›</content>
+            <end_delay>2000</end_delay>
+            <end>delay</end>
+            <typing>
+               <show>yes</show>
+               <toggles length="1">
+                  <toggle>4039</toggle>
                </toggles>
             </typing>
          </msg>
       </message>
       <message no="1.87" type="msgr">
          <msg no="1">
-            <content>I&apos;m not really into that Mark. Cmon now. ðŸ˜›</content>
-            <end_delay>0</end_delay>
+            <content>Y&apos;know what? I&apos;ll just tell you. ðŸ˜‚ The guy I considered dating was kind of a total wimp. I thought he was interesting so I really started talking to him but then I found out he was kind of weak in his own skin. He was lazy, unhygenic, unmotivated, and just not really as lively as I thought in general. In the end, he wasn&apos;t really someone worth pursuing so I just stopped talking to him.</content>
+            <end_delay>2000</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>11170</toggle>
                </toggles>
             </typing>
          </msg>
       </message>
-      <message no="1.88" type="msgr">
-         <msg no="1">
-            <content>Y&apos;know what? I&apos;ll just tell you. ðŸ˜‚ The guy I considered dating was kind of a total wimp. I thought he was interesting so I really started talking to him but then I found out he was kind of weak in his own skin. He was lazy, unhygenic, unmotivated, and just not really as livevly as I thought in general. In the end, he wasn&apos;t really someone worth pursuing so I just stopped talking to him.</content>
-            <end_delay>0</end_delay>
-            <typing>
-               <show>yes</show>
-               <toggles length="1">
-                  <toggle>1000</toggle>
-               </toggles>
-            </typing>
-         </msg>
-      </message>
-      <message no="1.89" type="player">
+      <message no="1.88" type="player">
          <reply no="1">
             <content>Well you have high standards now don&apos;t you? ðŸ˜›</content>
             <preview>x</preview>
@@ -1066,19 +1114,20 @@
             </send_duration>
          </reply>
       </message>
-      <message no="1.90" type="msgr">
+      <message no="1.89" type="msgr">
          <msg no="1">
             <content>I guess you could say that.</content>
-            <end_delay>0</end_delay>
+            <end_delay>2000</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>2738</toggle>
                </toggles>
             </typing>
          </msg>
       </message>
-      <message no="1.91" type="player">
+      <message no="1.90" type="player">
          <reply no="1">
             <content>And now I can&apos;t help but ask..</content>
             <preview>x</preview>
@@ -1090,7 +1139,7 @@
             </send_duration>
          </reply>
       </message>
-      <message no="1.92" type="player">
+      <message no="1.91" type="player">
          <reply no="1">
             <content>How many guys have you rejected Nic?</content>
             <preview>x</preview>
@@ -1102,55 +1151,59 @@
             </send_duration>
          </reply>
       </message>
-      <message no="1.93" type="msgr">
+      <message no="1.92" type="msgr">
          <msg no="1">
             <content>Umm...</content>
-            <end_delay>0</end_delay>
+            <end_delay>1500</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>2599</toggle>
+               </toggles>
+            </typing>
+         </msg>
+      </message>
+      <message no="1.93" type="msgr">
+         <msg no="1">
+            <content>If I remember correctly, probably about 4 guys, not counting the ones I dated or you. ðŸ˜›</content>
+            <end_delay>2300</end_delay>
+            <end>delay</end>
+            <typing>
+               <show>yes</show>
+               <toggles length="1">
+                  <toggle>4167</toggle>
                </toggles>
             </typing>
          </msg>
       </message>
       <message no="1.94" type="msgr">
          <msg no="1">
-            <content>If I remember correctly, probably about 4 guys, not counting the ones I dated or you. ðŸ˜›</content>
-            <end_delay>0</end_delay>
+            <content>Well it gets easier knowing what you really look for in a guy/girl after some past experience.</content>
+            <end_delay>3000</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>4694</toggle>
                </toggles>
             </typing>
          </msg>
       </message>
       <message no="1.95" type="msgr">
          <msg no="1">
-            <content>Well it gets easier knowing what you really look for in a guy/girl after some past experience.</content>
-            <end_delay>0</end_delay>
-            <typing>
-               <show>yes</show>
-               <toggles length="1">
-                  <toggle>1000</toggle>
-               </toggles>
-            </typing>
-         </msg>
-      </message>
-      <message no="1.96" type="msgr">
-         <msg no="1">
             <content>If ya know what I mean ðŸ˜‰</content>
-            <end_delay>0</end_delay>
+            <end_delay>1000</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>2851</toggle>
                </toggles>
             </typing>
          </msg>
       </message>
-      <message no="1.97" type="player">
+      <message no="1.96" type="player">
          <reply no="1">
             <content>LOL ðŸ˜‚ Oh you definitely have a lot of experience if that&apos;s what you&apos;re implying.</content>
             <preview>x</preview>
@@ -1162,7 +1215,7 @@
             </send_duration>
          </reply>
       </message>
-      <message no="1.98" type="player">
+      <message no="1.97" type="player">
          <reply no="1">
             <content>This is what I miss about you Nic. You always have dirty jokes, especially when we chat late at night. Everything just feels so normal now.</content>
             <preview>x</preview>
@@ -1174,55 +1227,59 @@
             </send_duration>
          </reply>
       </message>
-      <message no="1.99" type="msgr">
+      <message no="1.98" type="msgr">
          <msg no="1">
             <content>Hahaha! ðŸ˜‚ You&apos;re one of the only few guys I know of that really enjoy my weird humor</content>
-            <end_delay>0</end_delay>
+            <end_delay>3000</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>4491</toggle>
+               </toggles>
+            </typing>
+         </msg>
+      </message>
+      <message no="1.99" type="msgr">
+         <msg no="1">
+            <content>But for real though, I&apos;m not all about that life. ðŸ˜› I have standards y&apos;know?</content>
+            <end_delay>2500</end_delay>
+            <end>delay</end>
+            <typing>
+               <show>yes</show>
+               <toggles length="1">
+                  <toggle>4136</toggle>
                </toggles>
             </typing>
          </msg>
       </message>
       <message no="1.100" type="msgr">
          <msg no="1">
-            <content>But for real though, I&apos;m not all about that life. ðŸ˜› I have standards y&apos;know?</content>
-            <end_delay>0</end_delay>
+            <content>Sure, guys want to date me because they want to eventually get into my pants.</content>
+            <end_delay>2500</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>4099</toggle>
                </toggles>
             </typing>
          </msg>
       </message>
       <message no="1.101" type="msgr">
          <msg no="1">
-            <content>Sure, guys want to date me because they want to eventually get into my pants.</content>
-            <end_delay>0</end_delay>
-            <typing>
-               <show>yes</show>
-               <toggles length="1">
-                  <toggle>1000</toggle>
-               </toggles>
-            </typing>
-         </msg>
-      </message>
-      <message no="1.102" type="msgr">
-         <msg no="1">
             <content>But you can&apos;t just date a girl because of her looks. While good looks are definitely a plus, what&apos;s on the inside counts much more.</content>
-            <end_delay>0</end_delay>
+            <end_delay>1000</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>6211</toggle>
                </toggles>
             </typing>
          </msg>
       </message>
-      <message no="1.103" type="player">
+      <message no="1.102" type="player">
          <reply no="1">
             <content>&quot;What&apos;s on the inside.&quot; ðŸ˜‰</content>
             <preview>x</preview>
@@ -1234,43 +1291,46 @@
             </send_duration>
          </reply>
       </message>
-      <message no="1.104" type="msgr">
+      <message no="1.103" type="msgr">
          <msg no="1">
             <content>Dammit Mark! ðŸ˜‚ I&apos;m trying to be serious right now.</content>
-            <end_delay>0</end_delay>
+            <end_delay>2500</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>3860</toggle>
+               </toggles>
+            </typing>
+         </msg>
+      </message>
+      <message no="1.104" type="msgr">
+         <msg no="1">
+            <content>Anyways, if you&apos;re dating me, you sure as hell better be interesting and we gotta have things in common and sentimental experiences to share.</content>
+            <end_delay>3200</end_delay>
+            <end>delay</end>
+            <typing>
+               <show>yes</show>
+               <toggles length="1">
+                  <toggle>4901</toggle>
                </toggles>
             </typing>
          </msg>
       </message>
       <message no="1.105" type="msgr">
          <msg no="1">
-            <content>Anyways, if you&apos;re dating me, you sure as hell better be interesting and we gotta have things in common and sentimental experiences to share.</content>
-            <end_delay>0</end_delay>
-            <typing>
-               <show>yes</show>
-               <toggles length="1">
-                  <toggle>1000</toggle>
-               </toggles>
-            </typing>
-         </msg>
-      </message>
-      <message no="1.106" type="msgr">
-         <msg no="1">
             <content>Because if you&apos;re just in a relationship to hookup, it&apos;s really not worth it. There&apos;s no feelings at all and it feels.... too robotic imo.</content>
-            <end_delay>0</end_delay>
+            <end_delay>1000</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>5262</toggle>
                </toggles>
             </typing>
          </msg>
       </message>
-      <message no="1.107" type="player">
+      <message no="1.106" type="player">
          <reply no="1">
             <content>For a girl who&apos;s never hooked up with a guy before, you speak as if you have experience. ðŸ˜®</content>
             <preview>x</preview>
@@ -1282,67 +1342,72 @@
             </send_duration>
          </reply>
       </message>
-      <message no="1.108" type="msgr">
+      <message no="1.107" type="msgr">
          <msg no="1">
             <content>Nah nah...</content>
-            <end_delay>0</end_delay>
+            <end_delay>1800</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>2886</toggle>
+               </toggles>
+            </typing>
+         </msg>
+      </message>
+      <message no="1.108" type="msgr">
+         <msg no="1">
+            <content>I speak from observation</content>
+            <end_delay>2000</end_delay>
+            <end>delay</end>
+            <typing>
+               <show>yes</show>
+               <toggles length="1">
+                  <toggle>3384</toggle>
                </toggles>
             </typing>
          </msg>
       </message>
       <message no="1.109" type="msgr">
          <msg no="1">
-            <content>I speak from observation</content>
-            <end_delay>0</end_delay>
+            <content>I remember one of my girl friends who was so into hooking up with other guys. ðŸ˜‚ </content>
+            <end_delay>2800</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>5201</toggle>
                </toggles>
             </typing>
          </msg>
       </message>
       <message no="1.110" type="msgr">
          <msg no="1">
-            <content>I remember one of my girl friends who was so into hooking up with other guys. ðŸ˜‚ </content>
-            <end_delay>0</end_delay>
+            <content>Rumors would go around that this girl would hook up with random guys at least once a month. ðŸ˜‚</content>
+            <end_delay>2800</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>4753</toggle>
                </toggles>
             </typing>
          </msg>
       </message>
       <message no="1.111" type="msgr">
          <msg no="1">
-            <content>Rumors would go around that this girl would hook up with random guys at least once a month. ðŸ˜‚</content>
-            <end_delay>0</end_delay>
-            <typing>
-               <show>yes</show>
-               <toggles length="1">
-                  <toggle>1000</toggle>
-               </toggles>
-            </typing>
-         </msg>
-      </message>
-      <message no="1.112" type="msgr">
-         <msg no="1">
             <content>Sometimes I&apos;d feel bad for her reputation but what can she do? Word will always go out when an interesting event becomes a great story.</content>
-            <end_delay>0</end_delay>
+            <end_delay>3500</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>4918</toggle>
                </toggles>
             </typing>
          </msg>
       </message>
-      <message no="1.113" type="player">
+      <message no="1.112" type="player">
          <reply no="1">
             <content>Oh my god Nic ðŸ˜‚ How do you know about all this? I&apos;ve never about it happen at our school before.</content>
             <preview>x</preview>
@@ -1354,19 +1419,20 @@
             </send_duration>
          </reply>
       </message>
-      <message no="1.114" type="msgr">
+      <message no="1.113" type="msgr">
          <msg no="1">
             <content>Nah that&apos;s because this all took place at the park. I go there a lot just because that&apos;s where she usually likes to scoodilypoop ðŸ˜›</content>
-            <end_delay>0</end_delay>
+            <end_delay>1000</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>5227</toggle>
                </toggles>
             </typing>
          </msg>
       </message>
-      <message no="1.115" type="player">
+      <message no="1.114" type="player">
          <reply no="1">
             <content>Scoodily what?</content>
             <preview>x</preview>
@@ -1378,31 +1444,33 @@
             </send_duration>
          </reply>
       </message>
-      <message no="1.116" type="msgr">
+      <message no="1.115" type="msgr">
          <msg no="1">
             <content>It&apos;s just a fancy way of saying hooking up. ðŸ˜‚ You can credit my mom for that word.</content>
-            <end_delay>0</end_delay>
+            <end_delay>2500</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>4131</toggle>
                </toggles>
             </typing>
          </msg>
       </message>
-      <message no="1.117" type="msgr">
+      <message no="1.116" type="msgr">
          <msg no="1">
             <content>Oh gosh. I can still remember the car jumping up and down. And all those creaking noises ðŸ˜‚</content>
-            <end_delay>0</end_delay>
+            <end_delay>1000</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>4987</toggle>
                </toggles>
             </typing>
          </msg>
       </message>
-      <message no="1.118" type="player">
+      <message no="1.117" type="player">
          <reply no="1">
             <content>LOL ðŸ˜‚ I can imagine it so clearly. And I can only assume that you were recording with a group right Nic?</content>
             <preview>x</preview>
@@ -1414,31 +1482,33 @@
             </send_duration>
          </reply>
       </message>
-      <message no="1.119" type="msgr">
+      <message no="1.118" type="msgr">
          <msg no="1">
             <content>YES</content>
-            <end_delay>0</end_delay>
+            <end_delay>700</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>587</toggle>
                </toggles>
             </typing>
          </msg>
       </message>
-      <message no="1.120" type="msgr">
+      <message no="1.119" type="msgr">
          <msg no="1">
             <content>I posted some videos on snapchat. I didn&apos;t get a view of both of them but you can tell from all the noises it was them. ðŸ˜‚</content>
-            <end_delay>0</end_delay>
+            <end_delay>1000</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>4954</toggle>
                </toggles>
             </typing>
          </msg>
       </message>
-      <message no="1.121" type="player">
+      <message no="1.120" type="player">
          <reply no="1">
             <content>I don&apos;t like snapchat to be honest. ðŸ˜‚ A waste of time for me in my opinion. But I think now I need to reconsider.</content>
             <preview>x</preview>
@@ -1450,19 +1520,20 @@
             </send_duration>
          </reply>
       </message>
-      <message no="1.122" type="msgr">
+      <message no="1.121" type="msgr">
          <msg no="1">
             <content>Haha! ðŸ˜‚ It&apos;s a good time waster though. There&apos;s always that one guy who posts something so stupid or hilarious.</content>
-            <end_delay>0</end_delay>
+            <end_delay>1000</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>5090</toggle>
                </toggles>
             </typing>
          </msg>
       </message>
-      <message no="1.123" type="player">
+      <message no="1.122" type="player">
          <reply no="1">
             <content>By the way, this girl you keep mentioning. I bet I know who she is.</content>
             <preview>x</preview>
@@ -1474,7 +1545,7 @@
             </send_duration>
          </reply>
       </message>
-      <message no="1.124" type="player">
+      <message no="1.123" type="player">
          <reply no="1">
             <content>Is it Jenny? ðŸ˜‚</content>
             <preview>x</preview>
@@ -1486,55 +1557,59 @@
             </send_duration>
          </reply>
       </message>
-      <message no="1.125" type="msgr">
+      <message no="1.124" type="msgr">
          <msg no="1">
             <content>As much as I want to say she is, she ain&apos;t all about that life.</content>
-            <end_delay>0</end_delay>
+            <end_delay>2500</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>3004</toggle>
+               </toggles>
+            </typing>
+         </msg>
+      </message>
+      <message no="1.125" type="msgr">
+         <msg no="1">
+            <content>She&apos;s just.. I don&apos;t know... A lying bsckstabber. ðŸ˜‚</content>
+            <end_delay>2500</end_delay>
+            <end>delay</end>
+            <typing>
+               <show>yes</show>
+               <toggles length="1">
+                  <toggle>3780</toggle>
                </toggles>
             </typing>
          </msg>
       </message>
       <message no="1.126" type="msgr">
          <msg no="1">
-            <content>She&apos;s just.. I don&apos;t know... A lying bsckstabber. ðŸ˜‚</content>
-            <end_delay>0</end_delay>
+            <content>Anyways, you don&apos;t know who she is probably but she&apos;s in my PE class.</content>
+            <end_delay>2500</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>3550</toggle>
                </toggles>
             </typing>
          </msg>
       </message>
       <message no="1.127" type="msgr">
          <msg no="1">
-            <content>Anyways, you don&apos;t know who she is probably but she&apos;s in my PE class.</content>
-            <end_delay>0</end_delay>
-            <typing>
-               <show>yes</show>
-               <toggles length="1">
-                  <toggle>1000</toggle>
-               </toggles>
-            </typing>
-         </msg>
-      </message>
-      <message no="1.128" type="msgr">
-         <msg no="1">
             <content>Elizabeth DeWitt ring a bell?</content>
-            <end_delay>0</end_delay>
+            <end_delay>1000</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>2414</toggle>
                </toggles>
             </typing>
          </msg>
       </message>
-      <message no="1.129" type="player">
+      <message no="1.128" type="player">
          <reply no="1">
             <content>Nope. Never heard of her.</content>
             <preview>x</preview>
@@ -1546,7 +1621,7 @@
             </send_duration>
          </reply>
       </message>
-      <message no="1.130" type="player">
+      <message no="1.129" type="player">
          <reply no="1">
             <content>Y&apos;know sometimes I think you&apos;re secretly into that kind of stuff and you&apos;re not telling me. I bet this is all relatable to you. ðŸ˜‚</content>
             <preview>x</preview>
@@ -1558,31 +1633,34 @@
             </send_duration>
          </reply>
       </message>
-      <message no="1.131" type="msgr">
+      <message no="1.130" type="msgr">
          <msg no="1">
             <content>Stoooop! ðŸ˜‚</content>
-            <end_delay>0</end_delay>
+            <end_delay>1500</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
-               <toggles length="1">
-                  <toggle>1000</toggle>
+               <toggles length="3">
+                  <toggle>977</toggle>
+                  <toggle>691</toggle>
+                  <toggle>1322</toggle>
                </toggles>
             </typing>
          </msg>
       </message>
-      <message no="1.132" type="msgr">
+      <message no="1.131" type="msgr">
          <msg no="1">
             <content>How can anyone relate to that? Tell me. ðŸ˜› Most people have standards and decency.</content>
             <end_delay>0</end_delay>
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>4764</toggle>
                </toggles>
             </typing>
          </msg>
       </message>
-      <message no="1.133" type="player">
+      <message no="1.132" type="player">
          <reply no="1">
             <content>Calm down Nic. ðŸ˜› I know you&apos;re not into that stuff I was just messing with ya</content>
             <preview>x</preview>
@@ -1594,7 +1672,7 @@
             </send_duration>
          </reply>
       </message>
-      <message no="1.134" type="player">
+      <message no="1.133" type="player">
          <reply no="1">
             <content>I know you&apos;re a classy girl. You&apos;re mostly reserved and focused with chemistry especially.</content>
             <preview>x</preview>
@@ -1606,31 +1684,33 @@
             </send_duration>
          </reply>
       </message>
-      <message no="1.135" type="msgr">
+      <message no="1.134" type="msgr">
          <msg no="1">
             <content>You right. You right. ðŸ˜Ž</content>
-            <end_delay>0</end_delay>
+            <end_delay>1800</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>2874</toggle>
                </toggles>
             </typing>
          </msg>
       </message>
-      <message no="1.136" type="msgr">
+      <message no="1.135" type="msgr">
          <msg no="1">
             <content>Don&apos;t be trashy! Keep it classy! ðŸ˜‰</content>
-            <end_delay>0</end_delay>
+            <end_delay>1000</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>3417</toggle>
                </toggles>
             </typing>
          </msg>
       </message>
-      <message no="1.137" type="player">
+      <message no="1.136" type="player">
          <reply no="1">
             <content>LOL ðŸ˜‚ That&apos;s so good Nic. Where&apos;d you come up with it?</content>
             <preview>x</preview>
@@ -1642,67 +1722,72 @@
             </send_duration>
          </reply>
       </message>
-      <message no="1.138" type="msgr">
+      <message no="1.137" type="msgr">
          <msg no="1">
             <content>I&apos;m just so creative y&apos;know. ðŸ˜Œ</content>
-            <end_delay>0</end_delay>
+            <end_delay>1800</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>3723</toggle>
+               </toggles>
+            </typing>
+         </msg>
+      </message>
+      <message no="1.138" type="msgr">
+         <msg no="1">
+            <content>Okay I think I&apos;ve talked about THAT enough for today. ðŸ˜‚</content>
+            <end_delay>2250</end_delay>
+            <end>delay</end>
+            <typing>
+               <show>yes</show>
+               <toggles length="1">
+                  <toggle>3675</toggle>
                </toggles>
             </typing>
          </msg>
       </message>
       <message no="1.139" type="msgr">
          <msg no="1">
-            <content>Okay I think I&apos;ve talked about THAT enough for today. ðŸ˜‚</content>
-            <end_delay>0</end_delay>
+            <content>Going back to what we talked about earlier today. Love is not all about getting in a girl&apos;s pants, looking for happiness from someone else, or looking cool in front of all your friends.</content>
+            <end_delay>3500</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>6175</toggle>
                </toggles>
             </typing>
          </msg>
       </message>
       <message no="1.140" type="msgr">
          <msg no="1">
-            <content>Going back to what we talked about earlier today. Love is not all about getting in a girl&apos;s pants, looking for happiness from someone else, or looking cool in front of all your friends.</content>
-            <end_delay>0</end_delay>
+            <content>It&apos;s all about finding the girl you really love and y&apos;know what the best part about love is? It&apos;s all about the fact that it comes when you least expect it.</content>
+            <end_delay>3500</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>6329</toggle>
                </toggles>
             </typing>
          </msg>
       </message>
       <message no="1.141" type="msgr">
          <msg no="1">
-            <content>It&apos;s all about finding the girl you really love and y&apos;know what the best part about love is? It&apos;s all about the fact that it comes when you least expect it.</content>
-            <end_delay>0</end_delay>
-            <typing>
-               <show>yes</show>
-               <toggles length="1">
-                  <toggle>1000</toggle>
-               </toggles>
-            </typing>
-         </msg>
-      </message>
-      <message no="1.142" type="msgr">
-         <msg no="1">
             <content>Take it from me. I personally believe that the hottest thing I can find in a guy is ambition, drive, passion, dominance, and a good sense of humor. ðŸ˜‰</content>
-            <end_delay>0</end_delay>
+            <end_delay>1000</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>5895</toggle>
                </toggles>
             </typing>
          </msg>
       </message>
-      <message no="1.143" type="player">
+      <message no="1.142" type="player">
          <reply no="1">
             <content>Drive and passion especially. ðŸ˜‰</content>
             <preview>x</preview>
@@ -1714,31 +1799,32 @@
             </send_duration>
          </reply>
       </message>
-      <message no="1.144" type="msgr">
+      <message no="1.143" type="msgr">
          <msg no="1">
             <content>Yup... ðŸ˜‚</content>
-            <end_delay>0</end_delay>
+            <end_delay>1500</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>1454</toggle>
                </toggles>
             </typing>
          </msg>
       </message>
-      <message no="1.145" type="msgr">
+      <message no="1.144" type="msgr">
          <msg no="1">
             <content>When you focus only on yourself, you&apos;ll become a better developed, more well-rounded person and girls will come flocking towards you. ðŸ˜‰ &quot;Mark&quot; my words.</content>
             <end_delay>0</end_delay>
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>5030</toggle>
                </toggles>
             </typing>
          </msg>
       </message>
-      <message no="1.146" type="player">
+      <message no="1.145" type="player">
          <reply no="1">
             <content>That cheeeese though. ðŸ˜‚ Yeah I&apos;ll definitely remember your advice Nic.</content>
             <preview>x</preview>
@@ -1750,7 +1836,7 @@
             </send_duration>
          </reply>
       </message>
-      <message no="1.147" type="player">
+      <message no="1.146" type="player">
          <reply no="1">
             <content>I&apos;m glad we became friends. I&apos;m glad I fell in love with you Nic. â˜º Because if it wasn&apos;t for that, I never would&apos;ve invested so much time getting to know you better.</content>
             <preview>x</preview>
@@ -1762,7 +1848,7 @@
             </send_duration>
          </reply>
       </message>
-      <message no="1.148" type="player">
+      <message no="1.147" type="player">
          <reply no="1">
             <content>I want our friendship to continue. You have a great sense of humor, I&apos;m never bored around you, and all your crazy chemistry experiments always surprise me in a good way. And your pranks especially. I&apos;ll cherish these memories for as long as I&apos;m alive. â˜º</content>
             <preview>x</preview>
@@ -1774,43 +1860,46 @@
             </send_duration>
          </reply>
       </message>
-      <message no="1.149" type="msgr">
+      <message no="1.148" type="msgr">
          <msg no="1">
             <content>You&apos;re trying to make me cry arent&apos;cha? ðŸ˜­</content>
-            <end_delay>0</end_delay>
+            <end_delay>2000</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>4174</toggle>
+               </toggles>
+            </typing>
+         </msg>
+      </message>
+      <message no="1.149" type="msgr">
+         <msg no="1">
+            <content>I started tearing up when I read your last message. ðŸ˜‚</content>
+            <end_delay>2000</end_delay>
+            <end>delay</end>
+            <typing>
+               <show>yes</show>
+               <toggles length="1">
+                  <toggle>4209</toggle>
                </toggles>
             </typing>
          </msg>
       </message>
       <message no="1.150" type="msgr">
          <msg no="1">
-            <content>I started tearing up when I read your last message. ðŸ˜‚</content>
-            <end_delay>0</end_delay>
-            <typing>
-               <show>yes</show>
-               <toggles length="1">
-                  <toggle>1000</toggle>
-               </toggles>
-            </typing>
-         </msg>
-      </message>
-      <message no="1.151" type="msgr">
-         <msg no="1">
             <content>I know I&apos;ve said this earlier but I&apos;m glad we&apos;re bestfriends again Mark. â˜º Thank you so much. I truly respect what you did today. Best of luck in your love life and best of luck to me as well!</content>
-            <end_delay>0</end_delay>
+            <end_delay>1000</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>6101</toggle>
                </toggles>
             </typing>
          </msg>
       </message>
-      <message no="1.152" type="player">
+      <message no="1.151" type="player">
          <reply no="1">
             <content>Your welcome Nic. â˜º Man it feels so good being able to talk to you again normally. You&apos;re right. Screw love! It&apos;s all about enjoying life with people you care about.</content>
             <preview>x</preview>
@@ -1822,67 +1911,72 @@
             </send_duration>
          </reply>
       </message>
-      <message no="1.153" type="msgr">
+      <message no="1.152" type="msgr">
          <msg no="1">
             <content>Exactly! ðŸ˜‰</content>
-            <end_delay>0</end_delay>
+            <end_delay>1500</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>1825</toggle>
+               </toggles>
+            </typing>
+         </msg>
+      </message>
+      <message no="1.153" type="msgr">
+         <msg no="1">
+            <content>See sometimes love clouds reasoning. Sometimes you think it&apos;s love that you&apos;re feeling when in reality it&apos;s really something else.</content>
+            <end_delay>2300</end_delay>
+            <end>delay</end>
+            <typing>
+               <show>yes</show>
+               <toggles length="1">
+                  <toggle>4570</toggle>
                </toggles>
             </typing>
          </msg>
       </message>
       <message no="1.154" type="msgr">
          <msg no="1">
-            <content>See sometimes love clouds reasoning. Sometimes you think it&apos;s love that you&apos;re feeling when in reality it&apos;s really something else.</content>
-            <end_delay>0</end_delay>
+            <content>Sometimes you feel like you have no control over yourself because you&apos;re too weak to resist.</content>
+            <end_delay>2400</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>4208</toggle>
                </toggles>
             </typing>
          </msg>
       </message>
       <message no="1.155" type="msgr">
          <msg no="1">
-            <content>Sometimes you feel like you have no control over yourself because you&apos;re too weak to resist.</content>
-            <end_delay>0</end_delay>
+            <content>Or that it&apos;s sooo addicting that you keep unwillingly coming back for more.</content>
+            <end_delay>2500</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>4458</toggle>
                </toggles>
             </typing>
          </msg>
       </message>
       <message no="1.156" type="msgr">
          <msg no="1">
-            <content>Or that it&apos;s sooo addicting that you keep unwillingly coming back for more.</content>
-            <end_delay>0</end_delay>
-            <typing>
-               <show>yes</show>
-               <toggles length="1">
-                  <toggle>1000</toggle>
-               </toggles>
-            </typing>
-         </msg>
-      </message>
-      <message no="1.157" type="msgr">
-         <msg no="1">
             <content>That&apos;s why it&apos;s best to avoid love because of how painful it can be. â˜º</content>
-            <end_delay>0</end_delay>
+            <end_delay>1000</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>4177</toggle>
                </toggles>
             </typing>
          </msg>
       </message>
-      <message no="1.158" type="player">
+      <message no="1.157" type="player">
          <reply no="1">
             <content>What do you mean by it&apos;s so addicting?</content>
             <preview>x</preview>
@@ -1894,7 +1988,7 @@
             </send_duration>
          </reply>
       </message>
-      <message no="1.159" type="player">
+      <message no="1.158" type="player">
          <reply no="1">
             <content>What do you mean you keep &apos;unwillingly&apos; coming back for more?</content>
             <preview>x</preview>
@@ -1906,7 +2000,7 @@
             </send_duration>
          </reply>
       </message>
-      <message no="1.160" type="player">
+      <message no="1.159" type="player">
          <reply no="1">
             <content>Nic?</content>
             <preview>x</preview>
@@ -1918,31 +2012,37 @@
             </send_duration>
          </reply>
       </message>
-      <message no="1.161" type="msgr">
+      <message no="1.160" type="msgr">
          <msg no="1">
             <content>I...</content>
-            <end_delay>0</end_delay>
+            <end_delay>1000</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
-               <toggles length="1">
-                  <toggle>1000</toggle>
+               <toggles length="5">
+                  <toggle>679</toggle>
+                  <toggle>1034</toggle>
+                  <toggle>846</toggle>
+                  <toggle>1766</toggle>
+                  <toggle>644</toggle>
                </toggles>
             </typing>
          </msg>
       </message>
-      <message no="1.162" type="msgr">
+      <message no="1.161" type="msgr">
          <msg no="1">
-            <content>I have to go Mark. I&apos;m kinda tired now. Goodnight Mark!</content>
-            <end_delay>0</end_delay>
+            <content>I have to go Mark. I&apos;m kinda tired now. Goodnight!</content>
+            <end_delay>1500</end_delay>
+            <end>delay</end>
             <typing>
                <show>yes</show>
                <toggles length="1">
-                  <toggle>1000</toggle>
+                  <toggle>4818</toggle>
                </toggles>
             </typing>
          </msg>
       </message>
-      <message no="1.163" type="player">
+      <message no="1.162" type="player">
          <reply no="1">
             <content>Goodnight Nic.</content>
             <preview>x</preview>
@@ -1954,6 +2054,35 @@
             </send_duration>
          </reply>
       </message>
+      <message no="1.163" type="msgr">
+         <condition>
+            <if>TRUE</if>
+            <then>FADE_ADV,0,5000,Seen: Repressed
+
+A Seen Collaboration!
+
+Join the Seen Discord! ðŸ˜
+
+discord.gg/AKW6nqb,!SpLiT!,5000,Coming Soon!</then>
+         </condition>
+      </message>
+      <message no="1.164" type="msgr">
+         <condition>
+            <if>TRUE</if>
+            <then>END_GAME</then>
+         </condition>
+         <msg no="1">
+            <content>end</content>
+            <end_delay>6969</end_delay>
+            <end>game</end>
+            <typing>
+               <show>yes</show>
+               <toggles length="1">
+                  <toggle>1000</toggle>
+               </toggles>
+            </typing>
+         </msg>
+      </message>
       <msgr_dp>6233307999.png</msgr_dp>
       <msgr_name>Nicole Tyler</msgr_name>
       <msgr_nickname>Nicole</msgr_nickname>
@@ -1961,21 +2090,445 @@
       <custom_names>no</custom_names>
       <custom_dp>no</custom_dp>
       <real_talk>false</real_talk>
-      <chtime>00:00:00</chtime>
+      <chtime>23:31:00</chtime>
+   </chapter>
+   <chapter no="2">
+      <chdate>03/18/2015</chdate>
+      <chdesc>... This portion of the chapter is bait. People will think the central narrative conflict of this story is Mark getting over the friendzone and his residual feelings for Nicole. As the chapter progresses, Mark gets suspicious and realizes that there is something very serious that Nicole is hiding. Hints were revealed in the end of chapter 1 but chapter 2 will give more insight to those hints</chdesc>
+      <message no="2.1" type="msgr">
+         <msg no="1">
+            <content>Yooo Mark!</content>
+            <end_delay>0</end_delay>
+            <typing>
+               <show>yes</show>
+               <toggles length="1">
+                  <toggle>1000</toggle>
+               </toggles>
+            </typing>
+         </msg>
+      </message>
+      <message no="2.2" type="player">
+         <reply no="1">
+            <content>Oh hey Rommie...</content>
+            <preview>x</preview>
+            <send_duration>
+               <delivered>1000</delivered>
+               <reply>1000</reply>
+               <seen>1000</seen>
+               <sent>1000</sent>
+            </send_duration>
+         </reply>
+      </message>
+      <message no="2.3" type="msgr">
+         <msg no="1">
+            <content>You&apos;ve been up so late at night for the past few days. What&apos;s keeping you awake?</content>
+            <end_delay>0</end_delay>
+            <typing>
+               <show>yes</show>
+               <toggles length="1">
+                  <toggle>1000</toggle>
+               </toggles>
+            </typing>
+         </msg>
+      </message>
+      <message no="2.4" type="player">
+         <reply no="1">
+            <content>Idk man. I just kinda have nagging feelings still but I keep telling myself that I shouldn&apos;t because we were never even a thing to begin with.</content>
+            <preview>x</preview>
+            <send_duration>
+               <delivered>1000</delivered>
+               <reply>1000</reply>
+               <seen>1000</seen>
+               <sent>1000</sent>
+            </send_duration>
+         </reply>
+      </message>
+      <message no="2.5" type="msgr">
+         <msg no="1">
+            <content>So it&apos;s this all over again is it lil guy?</content>
+            <end_delay>0</end_delay>
+            <typing>
+               <show>yes</show>
+               <toggles length="1">
+                  <toggle>1000</toggle>
+               </toggles>
+            </typing>
+         </msg>
+      </message>
+      <message no="2.6" type="player">
+         <reply no="1">
+            <content>I just can&apos;t get over it no matter how hard I try I mean...</content>
+            <preview>x</preview>
+            <send_duration>
+               <delivered>1000</delivered>
+               <reply>1000</reply>
+               <seen>1000</seen>
+               <sent>1000</sent>
+            </send_duration>
+         </reply>
+      </message>
+      <message no="2.7" type="player">
+         <reply no="1">
+            <content>Why should I be sad about this friendzone when people have had worse in relationships? I&apos;ve heard stories of people breaking up after a four year relationship or divorce after ten years of marriage! My situation means nothing compared to that!</content>
+            <preview>x</preview>
+            <send_duration>
+               <delivered>1000</delivered>
+               <reply>1000</reply>
+               <seen>1000</seen>
+               <sent>1000</sent>
+            </send_duration>
+         </reply>
+      </message>
+      <message no="2.8" type="msgr">
+         <msg no="1">
+            <content>Cmon man! Never tell yourself that you should repress your emotions! Even if you weren&apos;t in a relationship, you still had feelings. You still tried to pursue her and she rejected you. Don&apos;t ever think you shouldn&apos;t be able to feel upset over your encounter because you think your situation isn&apos;t as bad as a breakup! Allow yourself to process the situation so that you can eventually get over her.</content>
+            <end_delay>0</end_delay>
+            <typing>
+               <show>yes</show>
+               <toggles length="1">
+                  <toggle>1000</toggle>
+               </toggles>
+            </typing>
+         </msg>
+      </message>
+      <message no="2.9" type="player">
+         <condition>
+            <if>TRUE</if>
+            <then>FADE_ADV,0,3000,(But then my feelings would get in the way of our friendship...),!SpLiT!,2000,You told yourself to process the hurt from rejection...,!SpLiT!,3000,But you just couldn&apos;t cry no matter how hard you tried...,!SpLiT!,3000,(Have I already moved on?...)</then>
+         </condition>
+      </message>
+      <message no="2.10" type="player">
+         <reply no="1">
+            <content>Well I&apos;ve already cried about it the first three days after she rejected me. Maybe it&apos;s just lingering emotions? Idk.</content>
+            <preview>x</preview>
+            <send_duration>
+               <delivered>1000</delivered>
+               <reply>1000</reply>
+               <seen>1000</seen>
+               <sent>1000</sent>
+            </send_duration>
+         </reply>
+      </message>
+      <message no="2.11" type="msgr">
+         <msg no="1">
+            <content>Well it&apos;s been a month since she rejected you... Do you feel like you&apos;re getting closer to getting over her?</content>
+            <end_delay>0</end_delay>
+            <typing>
+               <show>yes</show>
+               <toggles length="1">
+                  <toggle>1000</toggle>
+               </toggles>
+            </typing>
+         </msg>
+      </message>
+      <message no="2.12" type="player">
+         <reply no="1">
+            <content>I don&apos;t know to be honest. It&apos;s kind of on and off. And I find myself wanting to just lay in my bed, doing nothing but staring at the ceiling.</content>
+            <preview>x</preview>
+            <send_duration>
+               <delivered>1000</delivered>
+               <reply>1000</reply>
+               <seen>1000</seen>
+               <sent>1000</sent>
+            </send_duration>
+         </reply>
+      </message>
+      <message no="2.13" type="msgr">
+         <msg no="1">
+            <content>Dude that&apos;s dangerous.</content>
+            <end_delay>0</end_delay>
+            <typing>
+               <show>yes</show>
+               <toggles length="1">
+                  <toggle>1000</toggle>
+               </toggles>
+            </typing>
+         </msg>
+      </message>
+      <message no="2.14" type="player">
+         <reply no="1">
+            <content>What do you mean? Why?</content>
+            <preview>x</preview>
+            <send_duration>
+               <delivered>1000</delivered>
+               <reply>1000</reply>
+               <seen>1000</seen>
+               <sent>1000</sent>
+            </send_duration>
+         </reply>
+      </message>
+      <message no="2.15" type="msgr">
+         <msg no="1">
+            <content>By keeping yourself idle and doing nothing, you&apos;re allowing yourself to have dark thoughts infiltrate your mind. And that&apos;ll only prolong the process of getting over her. It&apos;s a nasty cycle to be in.</content>
+            <end_delay>0</end_delay>
+            <typing>
+               <show>yes</show>
+               <toggles length="1">
+                  <toggle>1000</toggle>
+               </toggles>
+            </typing>
+         </msg>
+      </message>
+      <message no="2.16" type="player">
+         <reply no="1">
+            <content>Well, I guess you&apos;re right about that. Sometimes I think I&apos;ve gotten over her one day and then the next day, she&apos;s running through my mind and I keep thinking what we could&apos;ve been had I said something differently, had I done something differently, or that maybe I still might get a second chance someday...</content>
+            <preview>x</preview>
+            <send_duration>
+               <delivered>1000</delivered>
+               <reply>1000</reply>
+               <seen>1000</seen>
+               <sent>1000</sent>
+            </send_duration>
+         </reply>
+      </message>
+      <message no="2.17" type="msgr">
+         <msg no="1">
+            <content>Here lemme tell you how to speed up the process: You&apos;re hurt, you&apos;re overanalyzing the past, and you&apos;re caught in this endless cycles of sadness and what-if&apos;s. If you really want to get over her, use this time as an opportunity to try new things. Focus on developing yourself so that you can keep your mind off her. It&apos;s hard at first because you&apos;re tempted to think about her.</content>
+            <end_delay>0</end_delay>
+            <typing>
+               <show>yes</show>
+               <toggles length="1">
+                  <toggle>1000</toggle>
+               </toggles>
+            </typing>
+         </msg>
+      </message>
+      <message no="2.18" type="player">
+         <reply no="1">
+            <content>You&apos;re right. I&apos;ve been too stubborn to do anything else productive. I&apos;ve never thought about it really. I believed that analyzing our conversations would help me. But I would always find myself with more questions and going back to square one.</content>
+            <preview>x</preview>
+            <send_duration>
+               <delivered>1000</delivered>
+               <reply>1000</reply>
+               <seen>1000</seen>
+               <sent>1000</sent>
+            </send_duration>
+         </reply>
+      </message>
+      <message no="2.19" type="msgr">
+         <msg no="1">
+            <content>I feel you man. See that&apos;s why you can&apos;t move on. Your mind is always on about her whenever you&apos;re given the chance. Even though it&apos;s inevitable that you&apos;ll be thinking about her, moving on is much easier if you&apos;re always busy. And there will be a point in time when you&apos;ll stop thinking about her and you won&apos;t even realize it. It just happens.</content>
+            <end_delay>0</end_delay>
+            <typing>
+               <show>yes</show>
+               <toggles length="1">
+                  <toggle>1000</toggle>
+               </toggles>
+            </typing>
+         </msg>
+      </message>
+      <message no="2.20" type="player">
+         <reply no="1">
+            <content>I hope so. I just want to be through this already. I used to feel so sad after being friendzoned but now this nagging feeling is just annoying. I just want to talk to her as a friend without being reminded that we can&apos;t be a thing...</content>
+            <preview>x</preview>
+            <send_duration>
+               <delivered>1000</delivered>
+               <reply>1000</reply>
+               <seen>1000</seen>
+               <sent>1000</sent>
+            </send_duration>
+         </reply>
+      </message>
+      <message no="2.21" type="msgr">
+         <msg no="1">
+            <content>Well you&apos;ve already tried ignoring her over the past month so the best thing you can do for now is just to keep yourself busy and stop asking yourself about what could&apos;ve been and why it ended up the way it is today.</content>
+            <end_delay>0</end_delay>
+            <typing>
+               <show>yes</show>
+               <toggles length="1">
+                  <toggle>1000</toggle>
+               </toggles>
+            </typing>
+         </msg>
+      </message>
+      <message no="2.22" type="player">
+         <reply no="1">
+            <content>Thanks man. I&apos;ll take your word and hope for the best.</content>
+            <preview>x</preview>
+            <send_duration>
+               <delivered>1000</delivered>
+               <reply>1000</reply>
+               <seen>1000</seen>
+               <sent>1000</sent>
+            </send_duration>
+         </reply>
+      </message>
+      <message no="2.23" type="msgr">
+         <msg no="1">
+            <content>One last question before I get back to work: Are you guys on good terms now?</content>
+            <end_delay>0</end_delay>
+            <typing>
+               <show>yes</show>
+               <toggles length="1">
+                  <toggle>1000</toggle>
+               </toggles>
+            </typing>
+         </msg>
+      </message>
+      <message no="2.24" type="player">
+         <reply no="1">
+            <content>Yeah. We are now thankfully. I just realized how close I was in pushing her away. I&apos;m just glad we&apos;re still friends and that I always have someone to laugh with and share crazy chemistry experiments with.</content>
+            <preview>x</preview>
+            <send_duration>
+               <delivered>1000</delivered>
+               <reply>1000</reply>
+               <seen>1000</seen>
+               <sent>1000</sent>
+            </send_duration>
+         </reply>
+      </message>
+      <message no="2.25" type="msgr">
+         <msg no="1">
+            <content>That&apos;s great to hear man! It seems like you&apos;ve moved on already but you just need to get over her before finding someone else.</content>
+            <end_delay>0</end_delay>
+            <typing>
+               <show>yes</show>
+               <toggles length="1">
+                  <toggle>1000</toggle>
+               </toggles>
+            </typing>
+         </msg>
+      </message>
+      <message no="2.26" type="msgr">
+         <msg no="1">
+            <content>Anyways, remember this: Your guys&apos; friendship is amazing. Don&apos;t ever stop talking to her and be there for her when she needs you. Use this as a learning experience so that you&apos;ll be able to do better with your next encounter. But other than that, that&apos;s all! Best of luck to you lil&apos; guy! If you ever need anything, just hit me up and we can talk!</content>
+            <end_delay>0</end_delay>
+            <typing>
+               <show>yes</show>
+               <toggles length="1">
+                  <toggle>1000</toggle>
+               </toggles>
+            </typing>
+         </msg>
+      </message>
+      <message no="2.27" type="player">
+         <reply no="1">
+            <content>Aight for sure man! Thanks for your advice. I think I can sleep now. I&apos;ll try my best not to think about her. And also, one more thing...</content>
+            <preview>x</preview>
+            <send_duration>
+               <delivered>1000</delivered>
+               <reply>1000</reply>
+               <seen>1000</seen>
+               <sent>1000</sent>
+            </send_duration>
+         </reply>
+      </message>
+      <message no="2.28" type="msgr">
+         <msg no="1">
+            <content>Oh it&apos;s nothing man! That&apos;s what family is for!</content>
+            <end_delay>0</end_delay>
+            <typing>
+               <show>yes</show>
+               <toggles length="1">
+                  <toggle>1000</toggle>
+               </toggles>
+            </typing>
+         </msg>
+      </message>
+      <message no="2.29" type="msgr">
+         <msg no="1">
+            <content>Sure! What is it?</content>
+            <end_delay>0</end_delay>
+            <typing>
+               <show>yes</show>
+               <toggles length="1">
+                  <toggle>1000</toggle>
+               </toggles>
+            </typing>
+         </msg>
+      </message>
+      <message no="2.30" type="player">
+         <reply no="1">
+            <content>We should practice piano tomorrow. It&apos;s been 2 years since I last played and I wanna see myself get better at it.</content>
+            <preview>x</preview>
+            <send_duration>
+               <delivered>1000</delivered>
+               <reply>1000</reply>
+               <seen>1000</seen>
+               <sent>1000</sent>
+            </send_duration>
+         </reply>
+      </message>
+      <message no="2.31" type="msgr">
+         <msg no="1">
+            <content>Of course man! I&apos;ll hook you up with easy sheet notes and we&apos;ll move up the ladder from there! We&apos;ll start practicing tomorrow. Hope you haven&apos;t forgotten your basic notes</content>
+            <end_delay>0</end_delay>
+            <typing>
+               <show>yes</show>
+               <toggles length="1">
+                  <toggle>1000</toggle>
+               </toggles>
+            </typing>
+         </msg>
+      </message>
+      <message no="2.32" type="player">
+         <reply no="1">
+            <content>Sounds good! And of course I haven&apos;t forgotten. How could I forget something so easy? Haha</content>
+            <preview>x</preview>
+            <send_duration>
+               <delivered>1000</delivered>
+               <reply>1000</reply>
+               <seen>1000</seen>
+               <sent>1000</sent>
+            </send_duration>
+         </reply>
+      </message>
+      <message no="2.33" type="msgr">
+         <msg no="1">
+            <content>Good. Alright I&apos;ll sign off now. Night man!</content>
+            <end_delay>0</end_delay>
+            <typing>
+               <show>yes</show>
+               <toggles length="1">
+                  <toggle>1000</toggle>
+               </toggles>
+            </typing>
+         </msg>
+      </message>
+      <message no="2.34" type="player">
+         <reply no="1">
+            <content>Night!</content>
+            <preview>x</preview>
+            <send_duration>
+               <delivered>1000</delivered>
+               <reply>1000</reply>
+               <seen>1000</seen>
+               <sent>1000</sent>
+            </send_duration>
+         </reply>
+      </message>
+      <message no="2.35" type="msgr">
+         <condition>
+            <if>TRUE</if>
+            <then>VAR,changetoiofademsg,-1</then>
+         </condition>
+      </message>
+      <msgr_dp>1527269691.png</msgr_dp>
+      <msgr_name>Romulus Blythe</msgr_name>
+      <msgr_nickname>Skyfall</msgr_nickname>
+      <chname>Advice</chname>
+      <custom_names>no</custom_names>
+      <custom_dp>no</custom_dp>
+      <real_talk>false</real_talk>
+      <chtime>01:24:00</chtime>
    </chapter>
    <date_created>1495397428706</date_created>
-   <date_modified>1495572582469</date_modified>
-   <desc>In this alternate universe, the ending of chapter 4 in the original Seen has been completely altered. What if in an alternate scenario, Mark Blythe does NOT force Nicole Tyler to love him back? What if, for some reason, although clearly unmeta from the original Seen story, Mark and Nicole stay friends?
-People that worked on this story:
-      MarinatedTuna
-      Skyfall125
-      SmartieWrites
-      
+   <date_modified>1496262398640</date_modified>
+   <desc>In this alternate universe, the ending of chapter 4 in the original Seen has been completely altered. What if in an alternate scenario, Mark Blythe does NOT force Nicole Tyler to love him back? What if, for some reason, although clearly unmeta from the original Seen story, Mark and Nicole stay friends? The car accident never happens and therefore no amnesia. Life&apos;s all good! Until...
+
 Official Beta Release 0:
 
 - Chapter One released and completed!
 - New premise and back story revealed!
-(05/23/2017)</desc>
+(05/23/2017)
+
+Major Update 1:
+
+- Chapter Two reveal!
+- Non-meta Seen character added!
+(05/31/2017)
+
+</desc>
    <name>Seen: Repressed</name>
    <player_name>Mark Blythe</player_name>
    <player_nickname>Mark</player_nickname>
