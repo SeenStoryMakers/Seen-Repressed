@@ -1,12 +1,14 @@
 <story>
-   <author>MarinatedTuna</author>
-   <build_number>243</build_number>
+   <author>MarinatedTuna </author>
+   <build_number>265</build_number>
    <chapter no="1">
       <chdate>03/16/2015</chdate>
       <chdesc>Boi....</chdesc>
       <message no="1.1" type="msgr">
          <msg no="1">
-            <content>Welcome! Thank you for downloading Seen: Repressed! U+1F603	 Please choose one of five options! </content>
+            <content>Welcome! Thank you for downloading Seen: Repressed! 😁 Please choose one of five options! 
+
+Update scheduled on 06/22/17!</content>
             <end_delay>0</end_delay>
             <typing>
                <show>yes</show>
@@ -76,14 +78,14 @@
          <condition>
             <if>READ,1.2,1</if>
             <then>IO_FADE_MSG,Nicole Tyler,6233307999.png,The next day...</then>
-            <then>SKIPTO,4</then>
+            <then>SKIPTO,5</then>
          </condition>
          <condition>
             <if>READ,1.2,2</if>
             <then>SKIPTO_CH,2</then>
          </condition>
          <condition>
-            <else>SKIPTO,4</else>
+            <else>SKIPTO,5</else>
             <if>READ,1.2,4</if>
             <then>SKIPTO_CH,3</then>
          </condition>
@@ -328,7 +330,7 @@
       </message>
       <message no="1.23" type="msgr">
          <msg no="1">
-            <content>Mark I miss you. Please come back ðŸ˜”</content>
+            <content>Mark I miss you. Please come back 😔</content>
             <end_delay>0</end_delay>
             <typing>
                <show>yes</show>
@@ -521,7 +523,7 @@
       </message>
       <message no="1.38" type="msgr">
          <msg no="1">
-            <content>Mark. Can I still trust you? ðŸ˜”</content>
+            <content>Mark. Can I still trust you? 😔</content>
             <end_delay>0</end_delay>
             <typing>
                <show>yes</show>
@@ -772,7 +774,7 @@
       </message>
       <message no="1.58" type="player">
          <reply no="1">
-            <content>No it&apos;s okay Nic. â˜º</content>
+            <content>No it&apos;s okay Nic. ☺</content>
             <preview>x</preview>
             <send_duration>
                <delivered>1000</delivered>
@@ -820,7 +822,7 @@
       </message>
       <message no="1.62" type="msgr">
          <msg no="1">
-            <content>Well I&apos;m glad we&apos;re okay now Mark. â˜º</content>
+            <content>Well I&apos;m glad we&apos;re okay now Mark. ☺</content>
             <end_delay>2100</end_delay>
             <end>delay</end>
             <typing>
@@ -885,7 +887,7 @@
       </message>
       <message no="1.67" type="player">
          <reply no="1">
-            <content>You&apos;re right Nic. I don&apos;t want anything to change between us. I just want to be comfortable about you being my bestfriend. â˜º</content>
+            <content>You&apos;re right Nic. I don&apos;t want anything to change between us. I just want to be comfortable about you being my bestfriend. ☺</content>
             <preview>x</preview>
             <send_duration>
                <delivered>1000</delivered>
@@ -909,7 +911,7 @@
       </message>
       <message no="1.69" type="player">
          <reply no="1">
-            <content>We already trust each other enough to tall about our deepest, darkest secrets. We run to each other when we need support. And we&apos;re always so excited to tell each other about our days. â˜º</content>
+            <content>We already trust each other enough to tall about our deepest, darkest secrets. We run to each other when we need support. And we&apos;re always so excited to tell each other about our days. ☺</content>
             <preview>x</preview>
             <send_duration>
                <delivered>1000</delivered>
@@ -921,7 +923,7 @@
       </message>
       <message no="1.70" type="player">
          <reply no="1">
-            <content>Come to think of it, it&apos;s as if we&apos;re still lovers anyways. ðŸ˜‚</content>
+            <content>Come to think of it, it&apos;s as if we&apos;re still lovers anyways. 😂</content>
             <preview>x</preview>
             <send_duration>
                <delivered>1000</delivered>
@@ -933,7 +935,7 @@
       </message>
       <message no="1.71" type="msgr">
          <msg no="1">
-            <content>Hahaha! ðŸ˜‚</content>
+            <content>Hahaha! 😂</content>
             <end_delay>1800</end_delay>
             <end>delay</end>
             <typing>
@@ -946,7 +948,7 @@
       </message>
       <message no="1.72" type="msgr">
          <msg no="1">
-            <content>You do have a point. ðŸ˜›</content>
+            <content>You do have a point. 😛</content>
             <end_delay>2000</end_delay>
             <end>delay</end>
             <typing>
@@ -985,7 +987,7 @@
       </message>
       <message no="1.75" type="msgr">
          <msg no="1">
-            <content>I really respect you for finally stopping your pursuit. â˜º I have a feeling that you&apos;ve had a thing for me for quite a while now.</content>
+            <content>I really respect you for finally stopping your pursuit. ☺ I have a feeling that you&apos;ve had a thing for me for quite a while now.</content>
             <end_delay>3200</end_delay>
             <end>delay</end>
             <typing>
@@ -1112,7 +1114,7 @@
       </message>
       <message no="1.85" type="player">
          <reply no="1">
-            <content>I don&apos;t get it. Can you define officially and unofficially? ðŸ˜‚</content>
+            <content>I don&apos;t get it. Can you define officially and unofficially? 😂</content>
             <preview>x</preview>
             <send_duration>
                <delivered>1000</delivered>
@@ -1124,7 +1126,7 @@
       </message>
       <message no="1.86" type="msgr">
          <msg no="1">
-            <content>Read between the lines my friend. ðŸ˜›</content>
+            <content>Read between the lines my friend. 😛</content>
             <end_delay>500</end_delay>
             <end>delay</end>
             <typing>
@@ -1149,7 +1151,7 @@
       </message>
       <message no="1.88" type="msgr">
          <msg no="1">
-            <content>LOL what?? You crazy! ðŸ˜‚</content>
+            <content>LOL what?? You crazy! 😂</content>
             <end_delay>2000</end_delay>
             <end>delay</end>
             <typing>
@@ -1162,7 +1164,7 @@
       </message>
       <message no="1.89" type="msgr">
          <msg no="1">
-            <content>I&apos;m not really into that Mark. Cmon now. ðŸ˜›</content>
+            <content>I&apos;m not really into that Mark. Cmon now. 😛</content>
             <end_delay>2000</end_delay>
             <end>delay</end>
             <typing>
@@ -1175,7 +1177,7 @@
       </message>
       <message no="1.90" type="msgr">
          <msg no="1">
-            <content>Y&apos;know what? I&apos;ll just tell you. ðŸ˜‚ The guy I considered dating was kind of a total wimp. I thought he was interesting so I really started talking to him but then I found out he was kind of weak in his own skin. He was lazy, unhygenic, unmotivated, and just not really as lively as I thought in general. In the end, he wasn&apos;t really someone worth pursuing so I just stopped talking to him.</content>
+            <content>Y&apos;know what? I&apos;ll just tell you. 😂 The guy I considered dating was kind of a total wimp. I thought he was interesting so I really started talking to him but then I found out he was kind of weak in his own skin. He was lazy, unhygenic, unmotivated, and just not really as lively as I thought in general. In the end, he wasn&apos;t really someone worth pursuing so I just stopped talking to him.</content>
             <end_delay>2000</end_delay>
             <end>delay</end>
             <typing>
@@ -1188,7 +1190,7 @@
       </message>
       <message no="1.91" type="player">
          <reply no="1">
-            <content>Well you have high standards now don&apos;t you? ðŸ˜›</content>
+            <content>Well you have high standards now don&apos;t you? 😛</content>
             <preview>x</preview>
             <send_duration>
                <delivered>1000</delivered>
@@ -1250,7 +1252,7 @@
       </message>
       <message no="1.96" type="msgr">
          <msg no="1">
-            <content>If I remember correctly, probably about 4 guys, not counting the ones I dated or you. ðŸ˜›</content>
+            <content>If I remember correctly, probably about 4 guys, not counting the ones I dated or you. 😛</content>
             <end_delay>2300</end_delay>
             <end>delay</end>
             <typing>
@@ -1276,7 +1278,7 @@
       </message>
       <message no="1.98" type="msgr">
          <msg no="1">
-            <content>If ya know what I mean ðŸ˜‰</content>
+            <content>If ya know what I mean 😉</content>
             <end_delay>1000</end_delay>
             <end>delay</end>
             <typing>
@@ -1289,7 +1291,7 @@
       </message>
       <message no="1.99" type="player">
          <reply no="1">
-            <content>LOL ðŸ˜‚ Oh you definitely have a lot of experience if that&apos;s what you&apos;re implying.</content>
+            <content>LOL 😂 Oh you definitely have a lot of experience if that&apos;s what you&apos;re implying.</content>
             <preview>x</preview>
             <send_duration>
                <delivered>1000</delivered>
@@ -1313,7 +1315,7 @@
       </message>
       <message no="1.101" type="msgr">
          <msg no="1">
-            <content>Hahaha! ðŸ˜‚ You&apos;re one of the only few guys I know of that really enjoy my weird humor</content>
+            <content>Hahaha! 😂 You&apos;re one of the only few guys I know of that really enjoy my weird humor</content>
             <end_delay>3000</end_delay>
             <end>delay</end>
             <typing>
@@ -1326,7 +1328,7 @@
       </message>
       <message no="1.102" type="msgr">
          <msg no="1">
-            <content>But for real though, I&apos;m not all about that life. ðŸ˜› I have standards y&apos;know?</content>
+            <content>But for real though, I&apos;m not all about that life. 😛 I have standards y&apos;know?</content>
             <end_delay>2500</end_delay>
             <end>delay</end>
             <typing>
@@ -1365,7 +1367,7 @@
       </message>
       <message no="1.105" type="player">
          <reply no="1">
-            <content>&quot;What&apos;s on the inside.&quot; ðŸ˜‰</content>
+            <content>&quot;What&apos;s on the inside.&quot; 😉</content>
             <preview>x</preview>
             <send_duration>
                <delivered>1000</delivered>
@@ -1377,7 +1379,7 @@
       </message>
       <message no="1.106" type="msgr">
          <msg no="1">
-            <content>Dammit Mark! ðŸ˜‚ I&apos;m trying to be serious right now.</content>
+            <content>Dammit Mark! 😂 I&apos;m trying to be serious right now.</content>
             <end_delay>2500</end_delay>
             <end>delay</end>
             <typing>
@@ -1416,7 +1418,7 @@
       </message>
       <message no="1.109" type="player">
          <reply no="1">
-            <content>For a girl who&apos;s never hooked up with a guy before, you speak as if you have experience. ðŸ˜®</content>
+            <content>For a girl who&apos;s never hooked up with a guy before, you speak as if you have experience. 😮</content>
             <preview>x</preview>
             <send_duration>
                <delivered>1000</delivered>
@@ -1454,7 +1456,7 @@
       </message>
       <message no="1.112" type="msgr">
          <msg no="1">
-            <content>I remember one of my girl friends who was so into hooking up with other guys. ðŸ˜‚ </content>
+            <content>I remember one of my girl friends who was so into hooking up with other guys. 😂 </content>
             <end_delay>2800</end_delay>
             <end>delay</end>
             <typing>
@@ -1467,7 +1469,7 @@
       </message>
       <message no="1.113" type="msgr">
          <msg no="1">
-            <content>Rumors would go around that this girl would hook up with random guys at least once a month. ðŸ˜‚</content>
+            <content>Rumors would go around that this girl would hook up with random guys at least once a month. 😂</content>
             <end_delay>2800</end_delay>
             <end>delay</end>
             <typing>
@@ -1493,7 +1495,7 @@
       </message>
       <message no="1.115" type="player">
          <reply no="1">
-            <content>Oh my god Nic ðŸ˜‚ How do you know about all this? I&apos;ve never about it happen at our school before.</content>
+            <content>Oh my god Nic 😂 How do you know about all this? I&apos;ve never about it happen at our school before.</content>
             <preview>x</preview>
             <send_duration>
                <delivered>1000</delivered>
@@ -1505,7 +1507,7 @@
       </message>
       <message no="1.116" type="msgr">
          <msg no="1">
-            <content>Nah that&apos;s because this all took place at the park. I go there a lot just because that&apos;s where she usually likes to scoodilypoop ðŸ˜›</content>
+            <content>Nah that&apos;s because this all took place at the park. I go there a lot just because that&apos;s where she usually likes to scoodilypoop 😛</content>
             <end_delay>1000</end_delay>
             <end>delay</end>
             <typing>
@@ -1530,7 +1532,7 @@
       </message>
       <message no="1.118" type="msgr">
          <msg no="1">
-            <content>It&apos;s just a fancy way of saying hooking up. ðŸ˜‚ You can credit my mom for that word.</content>
+            <content>It&apos;s just a fancy way of saying hooking up. 😂 You can credit my mom for that word.</content>
             <end_delay>2500</end_delay>
             <end>delay</end>
             <typing>
@@ -1543,7 +1545,7 @@
       </message>
       <message no="1.119" type="msgr">
          <msg no="1">
-            <content>Oh gosh. I can still remember the car jumping up and down. And all those creaking noises ðŸ˜‚</content>
+            <content>Oh gosh. I can still remember the car jumping up and down. And all those creaking noises 😂</content>
             <end_delay>1000</end_delay>
             <end>delay</end>
             <typing>
@@ -1556,7 +1558,7 @@
       </message>
       <message no="1.120" type="player">
          <reply no="1">
-            <content>LOL ðŸ˜‚ I can imagine it so clearly. And I can only assume that you were recording with a group right Nic?</content>
+            <content>LOL 😂 I can imagine it so clearly. And I can only assume that you were recording with a group right Nic?</content>
             <preview>x</preview>
             <send_duration>
                <delivered>1000</delivered>
@@ -1581,7 +1583,7 @@
       </message>
       <message no="1.122" type="msgr">
          <msg no="1">
-            <content>I posted some videos on snapchat. I didn&apos;t get a view of both of them but you can tell from all the noises it was them. ðŸ˜‚</content>
+            <content>I posted some videos on snapchat. I didn&apos;t get a view of both of them but you can tell from all the noises it was them. 😂</content>
             <end_delay>1000</end_delay>
             <end>delay</end>
             <typing>
@@ -1594,7 +1596,7 @@
       </message>
       <message no="1.123" type="player">
          <reply no="1">
-            <content>I don&apos;t like snapchat to be honest. ðŸ˜‚ A waste of time for me in my opinion. But I think now I need to reconsider.</content>
+            <content>I don&apos;t like snapchat to be honest. 😂 A waste of time for me in my opinion. But I think now I need to reconsider.</content>
             <preview>x</preview>
             <send_duration>
                <delivered>1000</delivered>
@@ -1606,7 +1608,7 @@
       </message>
       <message no="1.124" type="msgr">
          <msg no="1">
-            <content>Haha! ðŸ˜‚ It&apos;s a good time waster though. There&apos;s always that one guy who posts something so stupid or hilarious.</content>
+            <content>Haha! 😂 It&apos;s a good time waster though. There&apos;s always that one guy who posts something so stupid or hilarious.</content>
             <end_delay>1000</end_delay>
             <end>delay</end>
             <typing>
@@ -1631,7 +1633,7 @@
       </message>
       <message no="1.126" type="player">
          <reply no="1">
-            <content>Is it Jenny? ðŸ˜‚</content>
+            <content>Is it Jenny? 😂</content>
             <preview>x</preview>
             <send_duration>
                <delivered>1000</delivered>
@@ -1656,7 +1658,7 @@
       </message>
       <message no="1.128" type="msgr">
          <msg no="1">
-            <content>She&apos;s just.. I don&apos;t know... A lying bsckstabber. ðŸ˜‚</content>
+            <content>She&apos;s just.. I don&apos;t know... A lying bsckstabber. 😂</content>
             <end_delay>2500</end_delay>
             <end>delay</end>
             <typing>
@@ -1707,7 +1709,7 @@
       </message>
       <message no="1.132" type="player">
          <reply no="1">
-            <content>Y&apos;know sometimes I think you&apos;re secretly into that kind of stuff and you&apos;re not telling me. I bet this is all relatable to you. ðŸ˜‚</content>
+            <content>Y&apos;know sometimes I think you&apos;re secretly into that kind of stuff and you&apos;re not telling me. I bet this is all relatable to you. 😂</content>
             <preview>x</preview>
             <send_duration>
                <delivered>1000</delivered>
@@ -1719,7 +1721,7 @@
       </message>
       <message no="1.133" type="msgr">
          <msg no="1">
-            <content>Stoooop! ðŸ˜‚</content>
+            <content>Stoooop! 😂</content>
             <end_delay>1500</end_delay>
             <end>delay</end>
             <typing>
@@ -1734,7 +1736,7 @@
       </message>
       <message no="1.134" type="msgr">
          <msg no="1">
-            <content>How can anyone relate to that? Tell me. ðŸ˜› Most people have standards and decency.</content>
+            <content>How can anyone relate to that? Tell me. 😛 Most people have standards and decency.</content>
             <end_delay>0</end_delay>
             <typing>
                <show>yes</show>
@@ -1746,7 +1748,7 @@
       </message>
       <message no="1.135" type="player">
          <reply no="1">
-            <content>Calm down Nic. ðŸ˜› I know you&apos;re not into that stuff I was just messing with ya</content>
+            <content>Calm down Nic. 😛 I know you&apos;re not into that stuff I was just messing with ya</content>
             <preview>x</preview>
             <send_duration>
                <delivered>1000</delivered>
@@ -1770,7 +1772,7 @@
       </message>
       <message no="1.137" type="msgr">
          <msg no="1">
-            <content>You right. You right. ðŸ˜Ž</content>
+            <content>You right. You right. 😎</content>
             <end_delay>1800</end_delay>
             <end>delay</end>
             <typing>
@@ -1783,7 +1785,7 @@
       </message>
       <message no="1.138" type="msgr">
          <msg no="1">
-            <content>Don&apos;t be trashy! Keep it classy! ðŸ˜‰</content>
+            <content>Don&apos;t be trashy! Keep it classy! 😉</content>
             <end_delay>1000</end_delay>
             <end>delay</end>
             <typing>
@@ -1796,7 +1798,7 @@
       </message>
       <message no="1.139" type="player">
          <reply no="1">
-            <content>LOL ðŸ˜‚ That&apos;s so good Nic. Where&apos;d you come up with it?</content>
+            <content>LOL 😂 That&apos;s so good Nic. Where&apos;d you come up with it?</content>
             <preview>x</preview>
             <send_duration>
                <delivered>1000</delivered>
@@ -1808,7 +1810,7 @@
       </message>
       <message no="1.140" type="msgr">
          <msg no="1">
-            <content>I&apos;m just so creative y&apos;know. ðŸ˜Œ</content>
+            <content>I&apos;m just so creative y&apos;know. 😌</content>
             <end_delay>1800</end_delay>
             <end>delay</end>
             <typing>
@@ -1821,7 +1823,7 @@
       </message>
       <message no="1.141" type="msgr">
          <msg no="1">
-            <content>Okay I think I&apos;ve talked about THAT enough for today. ðŸ˜‚</content>
+            <content>Okay I think I&apos;ve talked about THAT enough for today. 😂</content>
             <end_delay>2250</end_delay>
             <end>delay</end>
             <typing>
@@ -1860,7 +1862,7 @@
       </message>
       <message no="1.144" type="msgr">
          <msg no="1">
-            <content>Take it from me. I personally believe that the hottest thing I can find in a guy is ambition, drive, passion, dominance, and a good sense of humor. ðŸ˜‰</content>
+            <content>Take it from me. I personally believe that the hottest thing I can find in a guy is ambition, drive, passion, dominance, and a good sense of humor. 😉</content>
             <end_delay>1000</end_delay>
             <end>delay</end>
             <typing>
@@ -1873,7 +1875,7 @@
       </message>
       <message no="1.145" type="player">
          <reply no="1">
-            <content>Drive and passion especially. ðŸ˜‰</content>
+            <content>Drive and passion especially. 😉</content>
             <preview>x</preview>
             <send_duration>
                <delivered>1000</delivered>
@@ -1885,7 +1887,7 @@
       </message>
       <message no="1.146" type="msgr">
          <msg no="1">
-            <content>Yup... ðŸ˜‚</content>
+            <content>Yup... 😂</content>
             <end_delay>1500</end_delay>
             <end>delay</end>
             <typing>
@@ -1898,7 +1900,7 @@
       </message>
       <message no="1.147" type="msgr">
          <msg no="1">
-            <content>When you focus only on yourself, you&apos;ll become a better developed, more well-rounded person and girls will come flocking towards you. ðŸ˜‰ &quot;Mark&quot; my words.</content>
+            <content>When you focus only on yourself, you&apos;ll become a better developed, more well-rounded person and girls will come flocking towards you. 😉 &quot;Mark&quot; my words.</content>
             <end_delay>0</end_delay>
             <typing>
                <show>yes</show>
@@ -1910,7 +1912,7 @@
       </message>
       <message no="1.148" type="player">
          <reply no="1">
-            <content>That cheeeese though. ðŸ˜‚ Yeah I&apos;ll definitely remember your advice Nic.</content>
+            <content>That cheeeese though. 😂 Yeah I&apos;ll definitely remember your advice Nic.</content>
             <preview>x</preview>
             <send_duration>
                <delivered>1000</delivered>
@@ -1922,7 +1924,7 @@
       </message>
       <message no="1.149" type="player">
          <reply no="1">
-            <content>I&apos;m glad we became friends. I&apos;m glad I fell in love with you Nic. â˜º Because if it wasn&apos;t for that, I never would&apos;ve invested so much time getting to know you better.</content>
+            <content>I&apos;m glad we became friends. I&apos;m glad I fell in love with you Nic. ☺ Because if it wasn&apos;t for that, I never would&apos;ve invested so much time getting to know you better.</content>
             <preview>x</preview>
             <send_duration>
                <delivered>1000</delivered>
@@ -1934,7 +1936,7 @@
       </message>
       <message no="1.150" type="player">
          <reply no="1">
-            <content>I want our friendship to continue. You have a great sense of humor, I&apos;m never bored around you, and all your crazy chemistry experiments always surprise me in a good way. And your pranks especially. I&apos;ll cherish these memories for as long as I&apos;m alive. â˜º</content>
+            <content>I want our friendship to continue. You have a great sense of humor, I&apos;m never bored around you, and all your crazy chemistry experiments always surprise me in a good way. And your pranks especially. I&apos;ll cherish these memories for as long as I&apos;m alive. ☺</content>
             <preview>x</preview>
             <send_duration>
                <delivered>1000</delivered>
@@ -1946,7 +1948,7 @@
       </message>
       <message no="1.151" type="msgr">
          <msg no="1">
-            <content>You&apos;re trying to make me cry arent&apos;cha? ðŸ˜­</content>
+            <content>You&apos;re trying to make me cry arent&apos;cha? 😭</content>
             <end_delay>2000</end_delay>
             <end>delay</end>
             <typing>
@@ -1959,7 +1961,7 @@
       </message>
       <message no="1.152" type="msgr">
          <msg no="1">
-            <content>I started tearing up when I read your last message. ðŸ˜‚</content>
+            <content>I started tearing up when I read your last message. 😂</content>
             <end_delay>2000</end_delay>
             <end>delay</end>
             <typing>
@@ -1972,7 +1974,7 @@
       </message>
       <message no="1.153" type="msgr">
          <msg no="1">
-            <content>I know I&apos;ve said this earlier but I&apos;m glad we&apos;re bestfriends again Mark. â˜º Thank you so much. I truly respect what you did today. Best of luck in your love life and best of luck to me as well!</content>
+            <content>I know I&apos;ve said this earlier but I&apos;m glad we&apos;re bestfriends again Mark. ☺ Thank you so much. I truly respect what you did today. Best of luck in your love life and best of luck to me as well!</content>
             <end_delay>1000</end_delay>
             <end>delay</end>
             <typing>
@@ -1985,7 +1987,7 @@
       </message>
       <message no="1.154" type="player">
          <reply no="1">
-            <content>Your welcome Nic. â˜º Man it feels so good being able to talk to you again normally. You&apos;re right. Screw love! It&apos;s all about enjoying life with people you care about.</content>
+            <content>Your welcome Nic. ☺ Man it feels so good being able to talk to you again normally. You&apos;re right. Screw love! It&apos;s all about enjoying life with people you care about.</content>
             <preview>x</preview>
             <send_duration>
                <delivered>1000</delivered>
@@ -1997,7 +1999,7 @@
       </message>
       <message no="1.155" type="msgr">
          <msg no="1">
-            <content>Exactly! ðŸ˜‰</content>
+            <content>Exactly! 😉</content>
             <end_delay>1500</end_delay>
             <end>delay</end>
             <typing>
@@ -2049,7 +2051,7 @@
       </message>
       <message no="1.159" type="msgr">
          <msg no="1">
-            <content>That&apos;s why it&apos;s best to avoid love because of how painful it can be. â˜º</content>
+            <content>That&apos;s why it&apos;s best to avoid love because of how painful it can be. ☺</content>
             <end_delay>1000</end_delay>
             <end>delay</end>
             <typing>
@@ -2145,7 +2147,7 @@
 
 A Seen Collaboration!
 
-Join the Seen Discord! ðŸ˜
+Join the Seen Discord! 😁
 
 discord.gg/AKW6nqb,!SpLiT!,5000,Coming Soon!</then>
          </condition>
@@ -2589,7 +2591,7 @@ discord.gg/AKW6nqb,!SpLiT!,5000,Coming Soon!</then>
       </message>
       <message no="2.36" type="msgr">
          <msg no="1">
-            <content>Mark! Guess what? ðŸ˜†</content>
+            <content>Mark! Guess what? 😆</content>
             <end_delay>0</end_delay>
             <typing>
                <show>yes</show>
@@ -2601,7 +2603,7 @@ discord.gg/AKW6nqb,!SpLiT!,5000,Coming Soon!</then>
       </message>
       <message no="2.37" type="player">
          <reply no="1">
-            <content>You hooked up with someone! ðŸ˜</content>
+            <content>You hooked up with someone! 😏</content>
             <preview>x</preview>
             <send_duration>
                <delivered>1000</delivered>
@@ -2613,7 +2615,7 @@ discord.gg/AKW6nqb,!SpLiT!,5000,Coming Soon!</then>
       </message>
       <message no="2.38" type="msgr">
          <msg no="1">
-            <content>Totally! ðŸ˜‚ For real though, here&apos;s what happened. So I texted my cousin&apos;s gf right? She&apos;s a chem major so I asked her to mail me two things since it&apos;s free. Guess what they were?</content>
+            <content>Totally! 😂 For real though, here&apos;s what happened. So I texted my cousin&apos;s gf right? She&apos;s a chem major so I asked her to mail me two things since it&apos;s free. Guess what they were?</content>
             <end_delay>0</end_delay>
             <typing>
                <show>yes</show>
@@ -2625,7 +2627,7 @@ discord.gg/AKW6nqb,!SpLiT!,5000,Coming Soon!</then>
       </message>
       <message no="2.39" type="player">
          <reply no="1">
-            <content>Radioactive waste? Idk. ðŸ˜‚</content>
+            <content>Radioactive waste? Idk. 😂</content>
             <preview>x</preview>
             <send_duration>
                <delivered>1000</delivered>
@@ -2649,7 +2651,7 @@ discord.gg/AKW6nqb,!SpLiT!,5000,Coming Soon!</then>
       </message>
       <message no="2.41" type="msgr">
          <msg no="1">
-            <content>I asked Evelyn for liquid nitrogen and diethyl ether! ðŸ˜‚ </content>
+            <content>I asked Evelyn for liquid nitrogen and diethyl ether! 😂 </content>
             <end_delay>0</end_delay>
             <typing>
                <show>yes</show>
@@ -2661,7 +2663,7 @@ discord.gg/AKW6nqb,!SpLiT!,5000,Coming Soon!</then>
       </message>
       <message no="2.42" type="player">
          <reply no="1">
-            <content>Damn Nic! ðŸ˜‚ What are you planning to do with those?</content>
+            <content>Damn Nic! 😂 What are you planning to do with those?</content>
             <preview>x</preview>
             <send_duration>
                <delivered>1000</delivered>
@@ -2673,7 +2675,7 @@ discord.gg/AKW6nqb,!SpLiT!,5000,Coming Soon!</then>
       </message>
       <message no="2.43" type="msgr">
          <msg no="1">
-            <content>I&apos;m gonna set the pool on fire with diethyl ether and then put it out with liquid nitrogen! ðŸ˜‚ Oh man... mom and dad would be pissed if they find out! Good thing they&apos;re not home.</content>
+            <content>I&apos;m gonna set the pool on fire with diethyl ether and then put it out with liquid nitrogen! 😂 Oh man... mom and dad would be pissed if they find out! Good thing they&apos;re not home.</content>
             <end_delay>0</end_delay>
             <typing>
                <show>yes</show>
@@ -2685,7 +2687,7 @@ discord.gg/AKW6nqb,!SpLiT!,5000,Coming Soon!</then>
       </message>
       <message no="2.44" type="player">
          <reply no="1">
-            <content>So this is the chem project you&apos;ve been talking about. Seriously though, watch yourself! ðŸ˜®</content>
+            <content>So this is the chem project you&apos;ve been talking about. Seriously though, watch yourself! 😮</content>
             <preview>x</preview>
             <send_duration>
                <delivered>1000</delivered>
@@ -2697,7 +2699,7 @@ discord.gg/AKW6nqb,!SpLiT!,5000,Coming Soon!</then>
       </message>
       <message no="2.45" type="msgr">
          <msg no="1">
-            <content>Hey dude! Stop worrying! ðŸ˜† I know how to deal with accidents like these.</content>
+            <content>Hey dude! Stop worrying! 😆 I know how to deal with accidents like these.</content>
             <end_delay>0</end_delay>
             <typing>
                <show>yes</show>
@@ -2720,6 +2722,210 @@ discord.gg/AKW6nqb,!SpLiT!,5000,Coming Soon!</then>
          </reply>
       </message>
       <message no="2.47" type="msgr">
+         <msg no="1">
+            <content>Nah nah</content>
+            <end_delay>0</end_delay>
+            <typing>
+               <show>yes</show>
+               <toggles length="1">
+                  <toggle>1000</toggle>
+               </toggles>
+            </typing>
+         </msg>
+      </message>
+      <message no="2.48" type="msgr">
+         <msg no="1">
+            <content>I just know how to deal with these things. I&apos;ve seen youtubers with their own crazy chemistry experiments. 😂 Like they&apos;ve had their own accidents before. Some get pretty nasty while other are just plain hilarious.</content>
+            <end_delay>0</end_delay>
+            <typing>
+               <show>yes</show>
+               <toggles length="1">
+                  <toggle>1000</toggle>
+               </toggles>
+            </typing>
+         </msg>
+      </message>
+      <message no="2.49" type="player">
+         <reply no="1">
+            <content>Just please don&apos;t burn down your house Nic. 😅 What you&apos;re doing seems way too dangerous. Are you doing this by yourself?</content>
+            <preview>x</preview>
+            <send_duration>
+               <delivered>1000</delivered>
+               <reply>1000</reply>
+               <seen>1000</seen>
+               <sent>1000</sent>
+            </send_duration>
+         </reply>
+      </message>
+      <message no="2.50" type="msgr">
+         <msg no="1">
+            <content>Dude I got this! No need to worry man! 😉</content>
+            <end_delay>0</end_delay>
+            <typing>
+               <show>yes</show>
+               <toggles length="1">
+                  <toggle>1000</toggle>
+               </toggles>
+            </typing>
+         </msg>
+      </message>
+      <message no="2.51" type="msgr">
+         <msg no="1">
+            <content>And this is just the first part of my experiment too so prepare for surprises in chemistry class on Friday. 😏</content>
+            <end_delay>0</end_delay>
+            <typing>
+               <show>yes</show>
+               <toggles length="1">
+                  <toggle>1000</toggle>
+               </toggles>
+            </typing>
+         </msg>
+      </message>
+      <message no="2.52" type="player">
+         <reply no="1">
+            <content>You serious Nic? 😂 What else are you doing?</content>
+            <preview>x</preview>
+            <send_duration>
+               <delivered>1000</delivered>
+               <reply>1000</reply>
+               <seen>1000</seen>
+               <sent>1000</sent>
+            </send_duration>
+         </reply>
+      </message>
+      <message no="2.53" type="msgr">
+         <msg no="1">
+            <content>OH</content>
+            <end_delay>0</end_delay>
+            <typing>
+               <show>yes</show>
+               <toggles length="1">
+                  <toggle>1000</toggle>
+               </toggles>
+            </typing>
+         </msg>
+      </message>
+      <message no="2.54" type="msgr">
+         <msg no="1">
+            <content>I&apos;m not telling you Mark 😛 I&apos;m totally going to surprise you.</content>
+            <end_delay>0</end_delay>
+            <typing>
+               <show>yes</show>
+               <toggles length="1">
+                  <toggle>1000</toggle>
+               </toggles>
+            </typing>
+         </msg>
+      </message>
+      <message no="2.55" type="player">
+         <reply no="1">
+            <content>Oh cmon Nic. 😂 I&apos;m your bestfriend. At least give me a hint.</content>
+            <preview>x</preview>
+            <send_duration>
+               <delivered>1000</delivered>
+               <reply>1000</reply>
+               <seen>1000</seen>
+               <sent>1000</sent>
+            </send_duration>
+         </reply>
+      </message>
+      <message no="2.56" type="msgr">
+         <msg no="1">
+            <content>Ugh! Fine. 😛 Let&apos;s just say my chem teacher would be impressed. I&apos;ll be demonstrating a concept he&apos;s never taught us in class before.</content>
+            <end_delay>0</end_delay>
+            <typing>
+               <show>yes</show>
+               <toggles length="1">
+                  <toggle>1000</toggle>
+               </toggles>
+            </typing>
+         </msg>
+      </message>
+      <message no="2.57" type="player">
+         <reply no="1">
+            <content>I have a feeling what you&apos;ll be doing is dangerous. Please do take care of yourself Nic. I&apos;m being serious now.</content>
+            <preview>x</preview>
+            <send_duration>
+               <delivered>1000</delivered>
+               <reply>1000</reply>
+               <seen>1000</seen>
+               <sent>1000</sent>
+            </send_duration>
+         </reply>
+      </message>
+      <message no="2.58" type="msgr">
+         <msg no="1">
+            <content>Dude! You really have nothing to worry about alright? 😂 I promise it&apos;s not dangerous. </content>
+            <end_delay>0</end_delay>
+            <typing>
+               <show>yes</show>
+               <toggles length="1">
+                  <toggle>1000</toggle>
+               </toggles>
+            </typing>
+         </msg>
+      </message>
+      <message no="2.59" type="msgr">
+         <msg no="1">
+            <content>Oh gosh! I just remembered! Something crazy happened with Jenny today 😂</content>
+            <end_delay>0</end_delay>
+            <typing>
+               <show>yes</show>
+               <toggles length="1">
+                  <toggle>1000</toggle>
+               </toggles>
+            </typing>
+         </msg>
+      </message>
+      <message no="2.60" type="player">
+         <reply no="1">
+            <content>With Jenny? What do you mean? You guys are talking to each other again?</content>
+            <preview>x</preview>
+            <send_duration>
+               <delivered>1000</delivered>
+               <reply>1000</reply>
+               <seen>1000</seen>
+               <sent>1000</sent>
+            </send_duration>
+         </reply>
+      </message>
+      <message no="2.61" type="msgr">
+         <msg no="1">
+            <content>Nah nah I still hate her ass 😛</content>
+            <end_delay>0</end_delay>
+            <typing>
+               <show>yes</show>
+               <toggles length="1">
+                  <toggle>1000</toggle>
+               </toggles>
+            </typing>
+         </msg>
+      </message>
+      <message no="2.62" type="msgr">
+         <msg no="1">
+            <content>Jenny hooked up with some guy from another school in the boy&apos;s bathroom 😂</content>
+            <end_delay>0</end_delay>
+            <typing>
+               <show>yes</show>
+               <toggles length="1">
+                  <toggle>1000</toggle>
+               </toggles>
+            </typing>
+         </msg>
+      </message>
+      <message no="2.63" type="player">
+         <reply no="1">
+            <content>What? Already? 😂 I legit thought that she was going out with Mike.</content>
+            <preview>x</preview>
+            <send_duration>
+               <delivered>1000</delivered>
+               <reply>1000</reply>
+               <seen>1000</seen>
+               <sent>1000</sent>
+            </send_duration>
+         </reply>
+      </message>
+      <message no="2.64" type="msgr">
          <condition>
             <if>TRUE</if>
             <then>END_GAME</then>
@@ -2762,7 +2968,7 @@ discord.gg/AKW6nqb,!SpLiT!,5000,Coming Soon!</then>
       </message>
       <message no="3.2" type="msgr">
          <msg no="1">
-            <content>What were you expecting? An easter egg? Fine here&apos;s one for ya ðŸ˜‚</content>
+            <content>What were you expecting? An easter egg? Fine here&apos;s one for ya 😂</content>
             <end_delay>5000</end_delay>
             <end>delay</end>
             <typing>
@@ -2775,7 +2981,7 @@ discord.gg/AKW6nqb,!SpLiT!,5000,Coming Soon!</then>
       </message>
       <message no="3.3" type="msgr">
          <msg no="1">
-            <content>Seen: Repressed WILL use PLAY_SOUND and TIMED_MSG on June 12, 2017 once Polychroma Games updates Seen. It&apos;s Seen&apos;s first anniversary on that day so hope you enjoy Seen: Repressed as I&apos;m working through it! ðŸ˜</content>
+            <content>Seen: Repressed WILL use PLAY_SOUND and TIMED_MSG on June 12, 2017 once Polychroma Games updates Seen. It&apos;s Seen&apos;s first anniversary on that day so hope you enjoy Seen: Repressed as I&apos;m working through it! 😁</content>
             <end_delay>12000</end_delay>
             <end>delay</end>
             <typing>
@@ -2795,8 +3001,92 @@ discord.gg/AKW6nqb,!SpLiT!,5000,Coming Soon!</then>
       <real_talk>false</real_talk>
       <chtime>00:00:00</chtime>
    </chapter>
+   <chapter no="4">
+      <chdate>03/27/2015</chdate>
+      <chdesc>... 😔😔😔</chdesc>
+      <message no="4.1" type="msgr">
+         <msg no="1">
+            <content>I tried to say no...</content>
+            <end_delay>0</end_delay>
+            <typing>
+               <show>yes</show>
+               <toggles length="1">
+                  <toggle>1000</toggle>
+               </toggles>
+            </typing>
+         </msg>
+      </message>
+      <message no="4.2" type="msgr">
+         <msg no="1">
+            <content>I said I wasn&apos;t ready for it...</content>
+            <end_delay>0</end_delay>
+            <typing>
+               <show>yes</show>
+               <toggles length="1">
+                  <toggle>1000</toggle>
+               </toggles>
+            </typing>
+         </msg>
+      </message>
+      <message no="4.3" type="msgr">
+         <msg no="1">
+            <content>@expr+ Nicole&apos;s voice began to waver</content>
+            <end_delay>0</end_delay>
+            <typing>
+               <show>yes</show>
+               <toggles length="1">
+                  <toggle>1000</toggle>
+               </toggles>
+            </typing>
+         </msg>
+      </message>
+      <message no="4.4" type="msgr">
+         <msg no="1">
+            <content>I tried to fight back...</content>
+            <end_delay>0</end_delay>
+            <typing>
+               <show>yes</show>
+               <toggles length="1">
+                  <toggle>1000</toggle>
+               </toggles>
+            </typing>
+         </msg>
+      </message>
+      <message no="4.5" type="msgr">
+         <msg no="1">
+            <content>I... I...</content>
+            <end_delay>0</end_delay>
+            <typing>
+               <show>yes</show>
+               <toggles length="1">
+                  <toggle>1000</toggle>
+               </toggles>
+            </typing>
+         </msg>
+      </message>
+      <message no="4.6" type="msgr">
+         <msg no="1">
+            <content>@expr+ Nicole burst into tears and fell on the grass</content>
+            <end_delay>0</end_delay>
+            <typing>
+               <show>yes</show>
+               <toggles length="1">
+                  <toggle>1000</toggle>
+               </toggles>
+            </typing>
+         </msg>
+      </message>
+      <msgr_dp>0295836985.png</msgr_dp>
+      <msgr_name>Nicole Tyler</msgr_name>
+      <msgr_nickname>Nic</msgr_nickname>
+      <chname>Repressed</chname>
+      <custom_names>no</custom_names>
+      <custom_dp>no</custom_dp>
+      <real_talk>true</real_talk>
+      <chtime>15:17:00</chtime>
+   </chapter>
    <date_created>1495397428706</date_created>
-   <date_modified>1496268205535</date_modified>
+   <date_modified>1498419466477</date_modified>
    <desc>In this alternate universe, the ending of chapter 4 in the original Seen has been completely altered. What if in an alternate scenario, Mark Blythe does NOT force Nicole Tyler to love him back? What if, for some reason, although clearly unmeta from the original Seen story, Mark and Nicole stay friends? The car accident never happens and therefore no amnesia. Life&apos;s all good! Until...
 
 Official Beta Release 0:
